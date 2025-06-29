@@ -1,7 +1,5 @@
 # 👋 ¡Hola! Soy María Rosete Suárez
 
-<img src="https://github.com/mariarosete/skillTech/blob/main/banner.png?raw=true" alt="Banner SkillTech" width="100%"/>
-
 🎓 Desarrolladora fullstack con formación en Administración de Sistemas Informáticos y especialización en Aplicaciones Web y Multiplataforma. 
 
   Me apasiona crear soluciones tecnológicas útiles, eficientes y visuales, y sigo en constante aprendizaje.
@@ -17,6 +15,11 @@
 ---
 
 ## 🚀 Proyectos destacados
+
+<br>
+
+<img src="https://github.com/mariarosete/skillTech/blob/main/banner.png?raw=true" alt="SkillTech Banner" width="100%"/>
+
 
 ### 📱 [Asgard Gym – App móvil para gimnasios](https://github.com/mariarosete/asgardGym)
 
