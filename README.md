@@ -16,6 +16,9 @@
 
 ## 🚀 Proyectos destacados
 
+<br>
+<img src="https://github.com/mariarosete/asgardGym/blob/main/bannerAsgard.png?raw=true" alt="Banner Asgard Gym" width="100%" />
+
 ### 📱 [Asgard Gym – App móvil para gimnasios](https://github.com/mariarosete/asgardGym)
 
 Aplicación Android desarrollada para facilitar la gestión de actividades en centros deportivos.
