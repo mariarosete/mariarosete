@@ -16,11 +16,6 @@
 
 ## 🚀 Proyectos destacados
 
-<br>
-
-<img src="https://github.com/mariarosete/skillTech/blob/main/banner.png?raw=true" alt="SkillTech Banner" width="100%"/>
-
-
 ### 📱 [Asgard Gym – App móvil para gimnasios](https://github.com/mariarosete/asgardGym)
 
 Aplicación Android desarrollada para facilitar la gestión de actividades en centros deportivos.
@@ -37,6 +32,10 @@ Aplicación Android desarrollada para facilitar la gestión de actividades en ce
 📍 *Próximas mejoras:* sincronización con API REST y análisis de hábitos saludables
 
 ---
+
+<br>
+
+<img src="https://github.com/mariarosete/skillTech/blob/main/banner.png?raw=true" alt="SkillTech Banner" width="100%"/>
 
 ### 💻 [SkillTech – Plataforma web educativa](https://github.com/mariarosete/skillTech)
 
