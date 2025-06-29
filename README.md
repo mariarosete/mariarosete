@@ -1,3 +1,5 @@
+<img src="https://github.com/mariarosete/mariarosete/blob/main/bannerPrin.png?raw=true" alt="Banner principal" width="100%" />
+
 # 👋 ¡Hola! Soy María Rosete Suárez
 
 🎓 Desarrolladora fullstack con formación en Administración de Sistemas Informáticos y especialización en Aplicaciones Web y Multiplataforma. 
