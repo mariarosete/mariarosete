@@ -1,6 +1,8 @@
-# 👋 ¡Hola! Soy María Rosete
+# 👋 ¡Hola! Soy María Rosete Suárez
 
-🎓 Desarrolladora fullstack con formación en Administración de Sistemas Informáticos y especialización en Aplicaciones Web y Multiplataforma. Me apasiona crear soluciones tecnológicas útiles, eficientes y visuales, y sigo en constante aprendizaje.
+🎓 Desarrolladora fullstack con formación en Administración de Sistemas Informáticos y especialización en Aplicaciones Web y Multiplataforma. 
+
+  Me apasiona crear soluciones tecnológicas útiles, eficientes y visuales, y sigo en constante aprendizaje.
 
 ---
 
@@ -68,7 +70,7 @@ Plataforma web para la gestión de cursos y recursos educativos, dirigida a estu
 
 ## 📫 Contacto
 
-📧 **Email:** mariarosete@hotmail.com  
+📧 **Email:** marlarosete89@gmail.com
 🔗 **LinkedIn:** [linkedin.com/in/mariarosetesuarez](https://www.linkedin.com/in/mariarosetesuarez)  
 💼 **GitHub:** [github.com/mariarosete](https://github.com/mariarosete)
 
