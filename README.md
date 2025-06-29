@@ -1,50 +1,48 @@
 # 👋 ¡Hola! Soy María Rosete
 
-🎓 Desarrolladora fullstack con formación en Administración de Sistemas Informáticos y especialización en Aplicaciones Web y Multiplataforma. 
-   
-   Me apasiona crear soluciones tecnológicas útiles, eficientes y visuales, y sigo en constante aprendizaje.
+🎓 Desarrolladora fullstack con formación en Administración de Sistemas Informáticos y especialización en Aplicaciones Web y Multiplataforma. Me apasiona crear soluciones tecnológicas útiles, eficientes y visuales, y sigo en constante aprendizaje.
 
 ---
 
 ## 🧠 Sobre mí
 
 - 💼 He desarrollado soluciones reales para empresas usando stacks modernos como **.NET 9 + React**, **Node.js + Vue.js**, y **Java + Spring Boot**, integrando herramientas como **Swagger**, **Git**, **Azure DevOps** y bases de datos SQL y NoSQL.
-- 🔧 Tengo experiencia en gestión de actividades, control de usuarios, desarrollo REST APIs, paneles de administración y apps móviles Android.
+- 🔧 Tengo experiencia en gestión de actividades, control de usuarios, desarrollo de REST APIs, paneles de administración y apps móviles Android.
 - 🏆 He recibido **2 menciones honoríficas en TFGs** por proyectos destacados en plataformas web y móviles.
 
 ---
 
 ## 🚀 Proyectos destacados
 
-### 📱 Asgard Gym – App móvil para gimnasios
-Aplicación Android para gestión de actividades en centros deportivos.
+### 📱 [Asgard Gym – App móvil para gimnasios](https://github.com/mariarosete/asgardGym)
+
+Aplicación Android desarrollada para facilitar la gestión de actividades en centros deportivos.
 
 🔹 Permite a los usuarios:
-- Consultar agenda filtrable (tipo, nombre, monitor)
-- Reservar actividades con validación en tiempo real
-- Consultar historial de reservas y estadísticas
+- Consultar una agenda semanal filtrable por tipo, nombre o monitor.
+- Realizar reservas en tiempo real con validación automática.
+- Ver el historial de reservas y estadísticas personales.
 
 🔹 Para el personal del gimnasio:
-- Gestión de usuarios, actividades e historial de cambios
+- Gestión de usuarios, actividades e historial de cambios.
 
 🛠️ **Tecnologías:** Kotlin · Android Studio · SQLite · Material Design  
-📍 *Próximas mejoras:* sincronización en la nube con API REST y análisis de hábitos
-
-🔗 [Ver repositorio](https://github.com/mariarosete/asgardGym)
+📍 *Próximas mejoras:* sincronización con API REST y análisis de hábitos saludables
 
 ---
 
-### 🧑‍💻 SkillTech – Plataforma web educativa 
-Aplicación web para la gestión de cursos de informática y recursos educativos.
+### 💻 [SkillTech – Plataforma web educativa](https://github.com/mariarosete/skillTech)
+
+Plataforma web para la gestión de cursos y recursos educativos, dirigida a estudiantes y profesionales de informática.
 
 🔹 Para administradores:
-- Crear, editar y eliminar cursos, usuarios y materiales (PDF, enlaces, vídeos)
-- Soporte mediante sistema de tickets
+- Crear, editar y eliminar cursos, usuarios y materiales (PDF, enlaces, vídeos).
+- Visualizar y responder solicitudes de soporte de usuarios.
 
 🔹 Para alumnos:
-- Registro e inicio de sesión con rol asignado
-- Acceso a sus cursos y materiales
-- Edición de perfil y contacto con soporte
+- Registro con rol asignado (alumno o administrador).
+- Acceso a cursos y materiales.
+- Edición de perfil y envío de tickets de soporte.
 
 🛠️ **Tecnologías:** Java · Spring Boot · MySQL · JWT · JavaScript · HTML · CSS
 
@@ -70,10 +68,11 @@ Aplicación web para la gestión de cursos de informática y recursos educativos
 
 ## 📫 Contacto
 
-📧 **Email:** marlarosete89@gmail.com  
-🔗 **LinkedIn:** [linkedin.com/in/mariarosete](https://linkedin.com/in/mariarosete)  
+📧 **Email:** mariarosete@hotmail.com  
+🔗 **LinkedIn:** [linkedin.com/in/mariarosetesuarez](https://www.linkedin.com/in/mariarosetesuarez)  
 💼 **GitHub:** [github.com/mariarosete](https://github.com/mariarosete)
 
 ---
 
 > *“Soy una persona responsable, resolutiva y con gran capacidad de adaptación. Me motiva especialmente seguir aprendiendo y asumir nuevos retos en el desarrollo de software.”*
+
