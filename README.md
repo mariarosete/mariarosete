@@ -1,8 +1,7 @@
 # 👋 ¡Hola! Soy María Rosete Suárez
 
 🎓 Desarrolladora fullstack con formación en Administración de Sistemas Informáticos y especialización en Aplicaciones Web y Multiplataforma. 
-
-  Me apasiona crear soluciones tecnológicas útiles, eficientes y visuales, y sigo en constante aprendizaje.
+    Me apasiona crear soluciones tecnológicas útiles, eficientes y visuales, y sigo en constante aprendizaje.
 
 ---
 
