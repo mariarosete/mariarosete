@@ -9,11 +9,16 @@
 
 ## 👩‍💻 Sobre mí
 
-- 💼 He desarrollado soluciones reales para empresas usando stacks modernos como **.NET 9 + React**, **Node.js + Vue.js**, y **Java + Spring Boot**, integrando herramientas como **Swagger**, **Git**, **Azure DevOps** y bases de datos SQL y NoSQL.
+- 💼 He trabajado en entornos reales como desarrolladora Full Stack Jr, participando en soluciones empresariales con stacks como .NET 9 + React y Node.js + Vue.js, utilizando herramientas como Swagger, Git, Azure DevOps y bases de datos SQL y NoSQL.
   
-- 🔧 Tengo experiencia en gestión de actividades, control de usuarios, desarrollo de REST APIs, paneles de administración y apps móviles Android.
+- 🚀 En proyectos académicos, he desarrollado plataformas completas con Java + Spring Boot y apps móviles con Kotlin, implementando funcionalidades como sistemas de autenticación, gestión de usuarios, paneles de administración, control de actividades, reservas en tiempo real y soporte al usuario.
   
-- 🏆 He recibido **2 menciones honoríficas en TFGs** por proyectos destacados en plataformas web y móviles.
+- 🏆 Mis TFGs fueron reconocidos con menciones honoríficas:
+  
+- **SkillTech**, plataforma educativa web para gestión de cursos y materiales didácticos.
+- **Asgard Gym**, app Android para la organización de actividades en centros deportivos.
+  
+Ambos proyectos destacan por su diseño funcional, enfoque práctico y orientación al usuario final.
 
 ---
 
