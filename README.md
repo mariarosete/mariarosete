@@ -7,10 +7,12 @@
 
 ---
 
-## 🧠 Sobre mí
+## 👩‍💻 Sobre mí
 
 - 💼 He desarrollado soluciones reales para empresas usando stacks modernos como **.NET 9 + React**, **Node.js + Vue.js**, y **Java + Spring Boot**, integrando herramientas como **Swagger**, **Git**, **Azure DevOps** y bases de datos SQL y NoSQL.
+  
 - 🔧 Tengo experiencia en gestión de actividades, control de usuarios, desarrollo de REST APIs, paneles de administración y apps móviles Android.
+  
 - 🏆 He recibido **2 menciones honoríficas en TFGs** por proyectos destacados en plataformas web y móviles.
 
 ---
@@ -32,7 +34,8 @@ Aplicación Android desarrollada para facilitar la gestión de actividades en ce
 🔹 Para el personal del gimnasio:
 - Gestión de usuarios, actividades e historial de cambios.
 
-🛠️ **Tecnologías:** Kotlin · Android Studio · SQLite · Material Design  
+🛠️ **Tecnologías:** Kotlin · Android Studio · SQLite · Material Design 
+
 📍 *Próximas mejoras:* sincronización con API REST y análisis de hábitos saludables
 
 ---
