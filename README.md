@@ -39,7 +39,7 @@ Aplicación Android desarrollada para facilitar la gestión de actividades en ce
 
 <br>
 
-<img src="https://github.com/mariarosete/skillTech/blob/main/banner.png?raw=true" alt="SkillTech Banner" width="100%"/>
+<img src="https://github.com/mariarosete/skillTech/blob/main/front/banner.png?raw=true" alt="SkillTech Banner" width="100%"/>
 
 ### 💻 [SkillTech – Plataforma web educativa](https://github.com/mariarosete/skillTech)
 
