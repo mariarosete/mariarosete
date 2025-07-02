@@ -88,7 +88,7 @@ Plataforma web para la gestión de cursos y recursos educativos, dirigida a estu
 
 📧 **Email:** marlarosete89@gmail.com
 🔗 **LinkedIn:** [linkedin.com/in/mariarosetesuarez](https://www.linkedin.com/in/mariarosetesuarez)  
-💼 **GitHub:** [github.com/mariarosete](https://github.com/mariarosete)
+💻 **GitHub:** [github.com/mariarosete](https://github.com/mariarosete)
 
 ---
 
