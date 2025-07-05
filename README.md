@@ -9,7 +9,33 @@
 
 ## 👩‍💻 Sobre mí
 
-- 💼 He trabajado en entornos reales como desarrolladora Full Stack Jr, participando en soluciones empresariales con stacks como .NET 9 + React y Node.js + Vue.js, utilizando herramientas como Swagger, Git, Azure DevOps y bases de datos SQL y NoSQL.
+## 💼 Experiencia profesional
+
+He trabajado como **Desarrolladora Full Stack Jr** en entornos reales, participando en soluciones empresariales con stacks modernos:
+
+### 🏢 ASP.NET Core + React (.NET 9)
+
+- Desarrollo de aplicaciones web con arquitectura basada en **API REST**, aplicando diseño de controladores y lógica de negocio orientada a servicios.
+  
+- Creación de interfaces modernas y responsive con **React**, **Vite** y **Tailwind CSS**.
+  
+- Documentación de endpoints con **Swagger**.
+  
+- Control de versiones y despliegue continuo con **Git** y **Azure DevOps**.
+  
+- Gestión de datos estructurados con **MySQL**.
+
+### 🏢 Node.js + Vue.js 
+
+- Desarrollo backend con **Node.js** y **Express.js**, incluyendo autenticación con **JWT**.
+  
+- Creación de interfaz responsive con **Vue.js** y **Quasar Framework**, desarrollando componentes reutilizables y funcionalidades dinámicas.
+  
+- Gestión de datos con **MongoDB** y **Mongoose**, incluyendo modelado de documentos.
+  
+- Funcionalidades desarrolladas: visor de facturas con descarga en PDF, paginación de noticias, banner configurable y gestión de usuarios, clientes y facturas.
+
+Estas experiencias me han permitido aplicar buenas prácticas de desarrollo, trabajar en equipo y construir soluciones escalables con tecnologías actuales del ecosistema web.
   
 - 🚀 En proyectos académicos, he desarrollado plataformas completas con Java + Spring Boot y apps móviles con Kotlin, implementando funcionalidades como sistemas de autenticación, gestión de usuarios, paneles de administración, control de actividades, reservas en tiempo real y soporte al usuario.
   
