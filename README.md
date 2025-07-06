@@ -118,6 +118,7 @@ Aplicación desarrollada durante una formación especializada en Angular, enfoca
 
 📍 *Proyecto realizado como parte de una formación intensiva en Angular*
 
+---
 
 ## 💡 Tecnologías que uso
 
