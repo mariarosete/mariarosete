@@ -101,6 +101,24 @@ Plataforma web para la gestión de cursos y recursos educativos, dirigida a estu
 
 ---
 
+<br>
+
+<img src="https://github.com/mariarosete/pokedex/blob/main/banner.png?raw=true" alt="Banner Pokedex" width="100%" />
+
+### 🧩 [Pokedex – Aplicación web Angular](https://github.com/mariarosete/pokedex)
+
+Aplicación desarrollada durante una formación especializada en Angular, enfocada en el consumo de APIs y la gestión de estado con NgRx.
+
+🔹 Funcionalidades:
+- Búsqueda y filtrado de Pokémon por tipo (agua, fuego, planta...).
+- Vista de listado y detalle individual con información enriquecida.
+- Interfaz responsiva con diseño moderno.
+
+🛠️ **Tecnologías:** Angular · NgRx · RxJS · Angular Material · TypeScript
+
+📍 *Proyecto realizado como parte de una formación intensiva en Angular*
+
+
 ## 💡 Tecnologías que uso
 
 ### 🧠 Lenguajes
