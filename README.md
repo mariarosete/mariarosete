@@ -108,6 +108,7 @@ Plataforma web para la gestión de cursos y recursos educativos, dirigida a estu
 ### 🎮 [Pokedex – Aplicación web Angular](https://github.com/mariarosete/pokedex)
 
 Aplicación desarrollada durante una formación especializada en Angular, enfocada en el consumo de APIs y la gestión de estado con NgRx.
+Los datos se obtienen en tiempo real desde la API pública PokeAPI.
 
 🔹 Funcionalidades:
 - Búsqueda y filtrado de Pokémon por tipo (agua, fuego, planta...).
