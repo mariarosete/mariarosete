@@ -105,7 +105,7 @@ Plataforma web para la gestión de cursos y recursos educativos, dirigida a estu
 
 <img src="https://github.com/mariarosete/pokedex/blob/main/banner.png?raw=true" alt="Banner Pokedex" width="100%" />
 
-### 🧩 [Pokedex – Aplicación web Angular](https://github.com/mariarosete/pokedex)
+### 🎮 [Pokedex – Aplicación web Angular](https://github.com/mariarosete/pokedex)
 
 Aplicación desarrollada durante una formación especializada en Angular, enfocada en el consumo de APIs y la gestión de estado con NgRx.
 
