@@ -13,7 +13,7 @@
 
 He trabajado como **Desarrolladora Full Stack Jr** en entornos reales, participando en soluciones empresariales con stacks modernos:
 
-### 🏢 ASP.NET Core + React (.NET 9)
+### 🏢 ASP.NET Core (.NET 9) + React (Vite + Tailwind)
 - Aplicación de arquitectura basada en **API REST**, con diseño de controladores y lógica de negocio orientada a servicios.
   
 - Desarrollo de interfaces modernas y responsive con **React**, **Vite** y **Tailwind CSS**.
