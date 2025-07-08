@@ -13,14 +13,14 @@
 ## 📜 Certificados
 
 <p align="left">
-  <img src="./assets/certifications/openwebinars.png" alt="OpenWebinars" width="40" height="40" style="vertical-align: middle; margin-right: 8px;" />
-  <img src="./assets/certifications/sap.png" alt="SAP" width="40" height="40" style="vertical-align: middle; margin-right: 8px;" />
-  <img src="./assets/certifications/udemy.png" alt="Udemy" width="40" height="40" style="vertical-align: middle; margin-right: 8px;" />
-  <img src="./assets/certifications/coursera.png" alt="Coursera" width="40" height="40" style="vertical-align: middle; margin-right: 8px;" />
-  <img src="./assets/certifications/ecdl.png" alt="ECDL" width="40" height="40" style="vertical-align: middle; margin-right: 8px;" />
-  <img src="./assets/certifications/asata.png" alt="ASATA" width="40" height="40" style="vertical-align: middle; margin-right: 8px;" />
-  <img src="./assets/certifications/dicampus.png" alt="Dicampus" width="40" height="40" style="vertical-align: middle; margin-right: 8px;" />
-  <img src="./assets/certifications/salesforce.png" alt="Salesforce" width="40" height="40" style="vertical-align: middle;" />
+  <a href="#"><img src="./assets/certifications/openwebinars.png" alt="OpenWebinars" width="80" style="border-radius:6px; padding:4px; background:#2e2e2e;" title="OpenWebinars" /></a>
+  <a href="#"><img src="./assets/certifications/sap.png" alt="SAP" width="80" style="border-radius:6px; padding:4px; background:#2e2e2e;" title="SAP" /></a>
+  <a href="#"><img src="./assets/certifications/udemy.png" alt="Udemy" width="80" style="border-radius:6px; padding:4px; background:#2e2e2e;" title="Udemy" /></a>
+  <a href="#"><img src="./assets/certifications/coursera.png" alt="Coursera" width="80" style="border-radius:6px; padding:4px; background:#2e2e2e;" title="Coursera" /></a>
+  <a href="#"><img src="./assets/certifications/ecdl.png" alt="ECDL" width="80" style="border-radius:6px; padding:4px; background:#2e2e2e;" title="ECDL" /></a>
+  <a href="#"><img src="./assets/certifications/asata.png" alt="ASATA" width="80" style="border-radius:6px; padding:4px; background:#2e2e2e;" title="ASATA" /></a>
+  <a href="#"><img src="./assets/certifications/dicampus.png" alt="Dicampus" width="80" style="border-radius:6px; padding:4px; background:#2e2e2e;" title="Dicampus" /></a>
+  <a href="#"><img src="./assets/certifications/salesforce.png" alt="Salesforce" width="80" style="border-radius:6px; padding:4px; background:#2e2e2e;" title="Salesforce" /></a>
 </p>
 
 
