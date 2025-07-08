@@ -10,6 +10,42 @@
 🎓 Me formé en Administración de Sistemas Informáticos y me especialicé en Aplicaciones Web y Multiplataforma. Disfruto aprendiendo nuevas tecnologías y enfrentando retos que potencien mi crecimiento como desarrolladora.
 
 ---
+## 📜 Certificados
+
+<img src="https://img.icons8.com/color/48/000000/openwebinars.png" width="20"/> **Curso de MongoDB: Creación y gestión de bases de datos NoSQL**  
+*OpenWebinars · Mar. 2025*
+
+<img src="https://img.icons8.com/color/48/000000/sap.png" width="20"/> **Learning the Basics of ABAP Programming on SAP BTP**  
+*SAP · Ene. 2025*
+
+<img src="https://img.icons8.com/ios-filled/50/000000/udemy.png" width="20"/> **NodeJS: De cero a experto**  
+*Udemy · May. 2024*
+
+<img src="https://img.icons8.com/fluency/48/000000/google-logo.png" width="20"/> **Certificado profesional en Soporte de Tecnologías de la Información de Google**  
+*Coursera *
+
+<img src="https://img.icons8.com/external-flat-juicy-fish/60/000000/external-ecdl-certification-flat-flat-juicy-fish.png" width="20"/> **Acreditación de competencias digitales europeas ECDL**  
+*ECDL Spain *
+
+<img src="https://img.icons8.com/color/48/000000/apache.png" width="20"/> **Certificado Servidor Web Apache 2.4**  
+*OpenWebinars *
+
+<img src="https://img.icons8.com/color/48/000000/asata.png" width="20"/> **Certificado de profesionalidad nivel 3 “Seguridad Informática”**  
+*ASATA *
+
+<img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/000000/external-security-cyber-security-flaticons-lineal-color-flat-icons.png" width="20"/> **Curso de Seguridad Informática en la Gestión Empresarial**  
+*Dicampus *
+
+<img src="https://img.icons8.com/color/48/000000/salesforce.png" width="20"/> **Salesforce (varios cursos, 2024):**  
+&nbsp;&nbsp;&nbsp;&nbsp;• Fundamentos de Salesforce Platform  
+&nbsp;&nbsp;&nbsp;&nbsp;• Gestión de datos  
+&nbsp;&nbsp;&nbsp;&nbsp;• Informes y paneles de Lightning Experience  
+&nbsp;&nbsp;&nbsp;&nbsp;• Modelado de datos  
+&nbsp;&nbsp;&nbsp;&nbsp;• Participación de usuario  
+&nbsp;&nbsp;&nbsp;&nbsp;• Personalización de Lightning Experience
+
+
+---
 
 ## 💼 Experiencia profesional
 
