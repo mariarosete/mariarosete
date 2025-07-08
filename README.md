@@ -12,93 +12,48 @@
 ---
 ## 📜 Certificados
 
-<!-- MongoDB -->
-<div style="display: flex; align-items: center; margin-bottom: 1rem;">
-  <img src="/assets/certifications/openwebinars.png" alt="OpenWebinars" style="width: 48px; height: 48px; margin-right: 12px;" />
-  <div>
-    <strong>Curso de MongoDB: Creación y gestión de bases de datos NoSQL</strong><br />
-    <em>OpenWebinars · Mar. 2025</em>
-  </div>
-</div>
+<p align="left">
+  <img src="./assets/certifications/openwebinars.png" alt="OpenWebinars" width="40" height="40" />
+  <img src="./assets/certifications/sap.png" alt="SAP" width="40" height="40" />
+  <img src="./assets/certifications/udemy.png" alt="Udemy" width="40" height="40" />
+  <img src="./assets/certifications/coursera.png" alt="Coursera" width="40" height="40" />
+  <img src="./assets/certifications/ecdl.png" alt="ECDL" width="40" height="40" />
+  <img src="./assets/certifications/asata.png" alt="ASATA" width="40" height="40" />
+  <img src="./assets/certifications/dicampus.png" alt="Dicampus" width="40" height="40" />
+  <img src="./assets/certifications/salesforce.png" alt="Salesforce" width="40" height="40" />
+</p>
 
-<!-- SAP -->
-<div style="display: flex; align-items: center; margin-bottom: 12px;">
-  <img src="/assets/certifications/sap.png" alt="SAP" style="width: 28px; height: 28px; object-fit: contain; margin-right: 12px;" />
-  <div>
-    <strong>Learning the Basics of ABAP Programming on SAP BTP</strong><br />
-    <em>SAP · Ene. 2025</em>
-  </div>
-</div>
+- **Curso de MongoDB: Creación y gestión de bases de datos NoSQL**  
+  *OpenWebinars · Mar. 2025*
 
-<!-- Node.js -->
-<div style="display: flex; align-items: center; margin-bottom: 12px;">
-  <img src="/assets/certifications/udemy.png" alt="Udemy" style="width: 28px; height: 28px; object-fit: contain; margin-right: 12px;" />
-  <div>
-    <strong>NodeJS: De cero a experto</strong><br />
-    <em>Udemy · May. 2024</em>
-  </div>
-</div>
+- **Learning the Basics of ABAP Programming on SAP BTP**  
+  *SAP · Ene. 2025*
 
-<!-- Google IT Support -->
-<div style="display: flex; align-items: center; margin-bottom: 12px;">
-  <img src="/assets/certifications/coursera.png" alt="Coursera" style="width: 28px; height: 28px; object-fit: contain; margin-right: 12px;" />
-  <div>
-    <strong>Certificado profesional en Soporte de Tecnologías de la Información de Google</strong><br />
-    <em>Coursera · Año no especificado</em>
-  </div>
-</div>
+- **NodeJS: De cero a experto**  
+  *Udemy · May. 2024*
 
-<!-- ECDL -->
-<div style="display: flex; align-items: center; margin-bottom: 12px;">
-  <img src="/assets/certifications/ecdl.png" alt="ECDL" style="width: 28px; height: 28px; object-fit: contain; margin-right: 12px;" />
-  <div>
-    <strong>Acreditación de competencias digitales europeas ECDL</strong><br />
-    <em>ECDL Spain · Año no especificado</em>
-  </div>
-</div>
+- **Certificado profesional en Soporte de Tecnologías de la Información de Google**  
+  *Coursera · Año no especificado*
 
-<!-- Apache -->
-<div style="display: flex; align-items: center; margin-bottom: 12px;">
-  <img src="/assets/certifications/openwebinars.png" alt="OpenWebinars" style="width: 28px; height: 28px; object-fit: contain; margin-right: 12px;" />
-  <div>
-    <strong>Certificado Servidor Web Apache 2.4</strong><br />
-    <em>OpenWebinars · Año no especificado</em>
-  </div>
-</div>
+- **Acreditación de competencias digitales europeas ECDL**  
+  *ECDL Spain · Año no especificado*
 
-<!-- Seguridad informática (ASATA) -->
-<div style="display: flex; align-items: center; margin-bottom: 12px;">
-  <img src="/assets/certifications/asata.png" alt="ASATA" style="width: 28px; height: 28px; object-fit: contain; margin-right: 12px;" />
-  <div>
-    <strong>Certificado de profesionalidad nivel 3 “Seguridad Informática”</strong><br />
-    <em>ASATA · Año no especificado</em>
-  </div>
-</div>
+- **Certificado Servidor Web Apache 2.4**  
+  *OpenWebinars · Año no especificado*
 
-<!-- Seguridad informática empresarial (Dicampus) -->
-<div style="display: flex; align-items: center; margin-bottom: 12px;">
-  <img src="/assets/certifications/dicampus.png" alt="Dicampus" style="width: 28px; height: 28px; object-fit: contain; margin-right: 12px;" />
-  <div>
-    <strong>Curso de Seguridad Informática en la Gestión Empresarial</strong><br />
-    <em>Dicampus · Año no especificado</em>
-  </div>
-</div>
+- **Certificado de profesionalidad nivel 3 “Seguridad Informática”**  
+  *ASATA · Año no especificado*
 
-<!-- Salesforce -->
-<div style="display: flex; align-items: center; margin-bottom: 4px;">
-  <img src="/assets/certifications/salesforce.png" alt="Salesforce" style="width: 28px; height: 28px; object-fit: contain; margin-right: 12px;" />
-  <div>
-    <strong>Salesforce (varios cursos, 2024):</strong>
-    <ul style="margin: 6px 0 0 0; padding-left: 18px;">
-      <li>Fundamentos de Salesforce Platform</li>
-      <li>Gestión de datos</li>
-      <li>Informes y paneles de Lightning Experience</li>
-      <li>Modelado de datos</li>
-      <li>Participación de usuario</li>
-      <li>Personalización de Lightning Experience</li>
-    </ul>
-  </div>
-</div>
+- **Curso de Seguridad Informática en la Gestión Empresarial**  
+  *Dicampus · Año no especificado*
+
+- **Salesforce (varios cursos, 2024):**  
+  - Fundamentos de Salesforce Platform  
+  - Gestión de datos  
+  - Informes y paneles de Lightning Experience  
+  - Modelado de datos  
+  - Participación de usuario  
+  - Personalización de Lightning Experience
 
 ---
 
