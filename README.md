@@ -2,14 +2,14 @@
 
 # 👋 ¡Hola! Soy María Rosete Suárez
 
+## 👩‍💻 Sobre mí
+
 💻 Desarrolladora **Full Stack Junior** | Backend y Frontend  
 🎯 Apasionada por crear soluciones tecnológicas útiles, escalables y centradas en el usuario.
 
 🎓 Me formé en Administración de Sistemas Informáticos y me especialicé en Aplicaciones Web y Multiplataforma. Disfruto aprendiendo nuevas tecnologías y enfrentando retos que potencien mi crecimiento como desarrolladora.
 
 ---
-
-## 👩‍💻 Sobre mí
 
 ## 💼 Experiencia profesional
 
