@@ -12,37 +12,7 @@
 ---
 ## 📜 Certificados
 
-<img src="https://img.icons8.com/color/48/mongodb.png" width="20"/> **Curso de MongoDB: Creación y gestión de bases de datos NoSQL**  
-*OpenWebinars · Mar. 2025*
 
-<img src="https://img.icons8.com/color/48/sap.png" width="20"/> **Learning the Basics of ABAP Programming on SAP BTP**  
-*SAP · Ene. 2025*
-
-<img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-udemycom-is-an-online-learning-and-teaching-marketplace-logo-color-tal-revivo.png" width="20"/> **NodeJS: De cero a experto**  
-*Udemy · May. 2024*
-
-<img src="https://img.icons8.com/color/48/google-logo.png" width="20"/> **Certificado profesional en Soporte de Tecnologías de la Información de Google**  
-*Coursera · Año no especificado*
-
-<img src="https://img.icons8.com/external-flat-juicy-fish/60/external-ecdl-certification-flat-flat-juicy-fish.png" width="20"/> **Acreditación de competencias digitales europeas ECDL**  
-*ECDL Spain · Año no especificado*
-
-<img src="https://img.icons8.com/color/48/apache.png" width="20"/> **Certificado Servidor Web Apache 2.4**  
-*OpenWebinars · Año no especificado*
-
-<img src="https://img.icons8.com/fluency/48/000000/security-shield-green.png" width="20"/> **Certificado de profesionalidad nivel 3 “Seguridad Informática”**  
-*ASATA · Año no especificado*
-
-<img src="https://img.icons8.com/color/48/privacy.png" width="20"/> **Curso de Seguridad Informática en la Gestión Empresarial**  
-*Dicampus · Año no especificado*
-
-<img src="https://img.icons8.com/ios-filled/50/228BE6/salesforce.png" width="20"/> **Salesforce (varios cursos, 2024):**  
-&nbsp;&nbsp;&nbsp;&nbsp;• Fundamentos de Salesforce Platform  
-&nbsp;&nbsp;&nbsp;&nbsp;• Gestión de datos  
-&nbsp;&nbsp;&nbsp;&nbsp;• Informes y paneles de Lightning Experience  
-&nbsp;&nbsp;&nbsp;&nbsp;• Modelado de datos  
-&nbsp;&nbsp;&nbsp;&nbsp;• Participación de usuario  
-&nbsp;&nbsp;&nbsp;&nbsp;• Personalización de Lightning Experience
 
 ---
 
