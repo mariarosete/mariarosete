@@ -34,19 +34,19 @@
   *Udemy · May. 2024*
 
 - **Certificado profesional en Soporte de Tecnologías de la Información de Google**  
-  *Coursera · Año no especificado*
+  *Coursera *
 
 - **Acreditación de competencias digitales europeas ECDL**  
-  *ECDL Spain · Año no especificado*
+  *ECDL Spain *
 
 - **Certificado Servidor Web Apache 2.4**  
-  *OpenWebinars · Año no especificado*
+  *OpenWebinars *
 
 - **Certificado de profesionalidad nivel 3 “Seguridad Informática”**  
-  *ASATA · Año no especificado*
+  *ASATA *
 
 - **Curso de Seguridad Informática en la Gestión Empresarial**  
-  *Dicampus · Año no especificado*
+  *Dicampus *
 
 - **Salesforce (varios cursos, 2024):**  
   - Fundamentos de Salesforce Platform  
