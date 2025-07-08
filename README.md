@@ -14,7 +14,7 @@
 
 <!-- MongoDB -->
 <div style="display: flex; align-items: center; margin-bottom: 1rem;">
-  <img src="/assets/certifications/openwebinars.png alt="OpenWebinars" style="width: 48px; height: 48px; margin-right: 12px; border-radius: 4px;" />
+  <img src="/assets/certifications/openwebinars.png" alt="OpenWebinars" style="width: 48px; height: 48px; margin-right: 12px; border-radius: 4px;" />
   <div>
     <strong>Curso de MongoDB: Creación y gestión de bases de datos NoSQL</strong><br />
     <em>OpenWebinars · Mar. 2025</em>
