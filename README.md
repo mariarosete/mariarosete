@@ -12,15 +12,15 @@
 ---
 ## 📜 Certificados
 
-<p align="left">
-  <img src="./assets/certifications/openwebinars.png" alt="OpenWebinars" height="60" style="object-fit: contain; background:#2e2e2e; padding:6px; border-radius:6px;" title="OpenWebinars" />
-  <img src="./assets/certifications/sap.png" alt="SAP" height="60" style="object-fit: contain; background:#2e2e2e; padding:6px; border-radius:6px;" title="SAP" />
-  <img src="./assets/certifications/udemy.png" alt="Udemy" height="60" style="object-fit: contain; background:#2e2e2e; padding:6px; border-radius:6px;" title="Udemy" />
-  <img src="./assets/certifications/coursera.png" alt="Coursera" height="60" style="object-fit: contain; background:#2e2e2e; padding:6px; border-radius:6px;" title="Coursera" />
-  <img src="./assets/certifications/ecdl.png" alt="ECDL" height="60" style="object-fit: contain; background:#2e2e2e; padding:6px; border-radius:6px;" title="ECDL" />
-  <img src="./assets/certifications/asata.png" alt="ASATA" height="60" style="object-fit: contain; background:#2e2e2e; padding:6px; border-radius:6px;" title="ASATA" />
-  <img src="./assets/certifications/dicampus.png" alt="Dicampus" height="60" style="object-fit: contain; background:#2e2e2e; padding:6px; border-radius:6px;" title="Dicampus" />
-  <img src="./assets/certifications/salesforce.png" alt="Salesforce" height="60" style="object-fit: contain; background:#2e2e2e; padding:6px; border-radius:6px;" title="Salesforce" />
+<p align="center">
+  <img src="./assets/certifications/openwebinars.png" alt="OpenWebinars" height="60" style="object-fit:contain; background:#2e2e2e; padding:6px; border-radius:6px;" title="OpenWebinars" />
+  <img src="./assets/certifications/sap.png" alt="SAP" height="60" style="object-fit:contain; background:#2e2e2e; padding:6px; border-radius:6px;" title="SAP" />
+  <img src="./assets/certifications/udemy.png" alt="Udemy" height="60" style="object-fit:contain; background:#2e2e2e; padding:6px; border-radius:6px;" title="Udemy" />
+  <img src="./assets/certifications/coursera.png" alt="Coursera" height="60" style="object-fit:contain; background:#2e2e2e; padding:6px; border-radius:6px;" title="Coursera" />
+  <img src="./assets/certifications/ecdl.png" alt="ECDL" height="60" style="object-fit:contain; background:#2e2e2e; padding:6px; border-radius:6px;" title="ECDL" />
+  <img src="./assets/certifications/asata.png" alt="ASATA" height="60" style="object-fit:contain; background:#2e2e2e; padding:6px; border-radius:6px;" title="ASATA" />
+  <img src="./assets/certifications/dicampus.png" alt="Dicampus" height="60" style="object-fit:contain; background:#2e2e2e; padding:6px; border-radius:6px;" title="Dicampus" />
+  <img src="./assets/certifications/salesforce.png" alt="Salesforce" height="60" style="object-fit:contain; background:#2e2e2e; padding:6px; border-radius:6px;" title="Salesforce" />
 </p>
 
 
