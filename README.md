@@ -13,15 +13,16 @@
 ## 📜 Certificados
 
 <p align="left">
-  <img src="./assets/certifications/openwebinars.png" alt="OpenWebinars" width="40" height="40" />
-  <img src="./assets/certifications/sap.png" alt="SAP" width="40" height="40" />
-  <img src="./assets/certifications/udemy.png" alt="Udemy" width="40" height="40" />
-  <img src="./assets/certifications/coursera.png" alt="Coursera" width="40" height="40" />
-  <img src="./assets/certifications/ecdl.png" alt="ECDL" width="40" height="40" />
-  <img src="./assets/certifications/asata.png" alt="ASATA" width="40" height="40" />
-  <img src="./assets/certifications/dicampus.png" alt="Dicampus" width="40" height="40" />
-  <img src="./assets/certifications/salesforce.png" alt="Salesforce" width="40" height="40" />
+  <img src="./assets/certifications/openwebinars.png" alt="OpenWebinars" width="40" height="40" style="vertical-align: middle; margin-right: 8px;" />
+  <img src="./assets/certifications/sap.png" alt="SAP" width="40" height="40" style="vertical-align: middle; margin-right: 8px;" />
+  <img src="./assets/certifications/udemy.png" alt="Udemy" width="40" height="40" style="vertical-align: middle; margin-right: 8px;" />
+  <img src="./assets/certifications/coursera.png" alt="Coursera" width="40" height="40" style="vertical-align: middle; margin-right: 8px;" />
+  <img src="./assets/certifications/ecdl.png" alt="ECDL" width="40" height="40" style="vertical-align: middle; margin-right: 8px;" />
+  <img src="./assets/certifications/asata.png" alt="ASATA" width="40" height="40" style="vertical-align: middle; margin-right: 8px;" />
+  <img src="./assets/certifications/dicampus.png" alt="Dicampus" width="40" height="40" style="vertical-align: middle; margin-right: 8px;" />
+  <img src="./assets/certifications/salesforce.png" alt="Salesforce" width="40" height="40" style="vertical-align: middle;" />
 </p>
+
 
 - **Curso de MongoDB: Creación y gestión de bases de datos NoSQL**  
   *OpenWebinars · Mar. 2025*
