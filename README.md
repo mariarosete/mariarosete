@@ -2,8 +2,9 @@
 
 # 👋 ¡Hola! Soy María Rosete Suárez
 
-🎓 Desarrolladora Full Stack Jr con formación en Administración de Sistemas Informáticos y especialización en Aplicaciones Web y Multiplataforma. 
-    Me apasiona crear soluciones tecnológicas útiles, eficientes y visuales, y sigo en constante aprendizaje.
+🎓 Desarrolladora Full Stack Junior con base en Administración de Sistemas Informáticos y especialización en Aplicaciones Web y Multiplataforma.
+Me apasiona diseñar y construir soluciones tecnológicas eficientes, funcionales y orientadas al usuario.
+Disfruto aprendiendo nuevas tecnologías y enfrentando retos que potencien mi crecimiento como desarrolladora.
 
 ---
 
