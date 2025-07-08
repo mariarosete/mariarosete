@@ -13,8 +13,10 @@
 ## 📜 Certificados
 
 <!-- MongoDB -->
-<div style="display: flex; align-items: center; margin-bottom: 12px;">
-  <img src="/assets/certifications/openwebinars.png" alt="OpenWebinars" style="width: 28px; height: 28px; object-fit: contain; margin-right: 12px;" />
+<div style="display: flex; align-items: flex-start; margin-bottom: 16px;">
+  <div style="flex-shrink: 0; margin-right: 12px;">
+    <img src="/assets/certifications/openwebinars.png" alt="OpenWebinars" style="width: 28px; height: 28px; object-fit: contain;" />
+  </div>
   <div>
     <strong>Curso de MongoDB: Creación y gestión de bases de datos NoSQL</strong><br />
     <em>OpenWebinars · Mar. 2025</em>
