@@ -155,7 +155,7 @@ Plataforma web para la gestión de cursos y recursos educativos, dirigida a estu
 
 <br>
 
-<img src="https://github.com/mariarosete/pokedex/blob/main/banner.png?raw=true" alt="Banner Pokedex" width="100%" />
+<img src="https://github.com/mariarosete/pokedex/blob/main/Banner_Pokedex.png?raw=true" alt="Banner Pokedex" width="100%" />
 
 ### 🎮 [Pokedex – Aplicación web Angular](https://github.com/mariarosete/pokedex)
 
