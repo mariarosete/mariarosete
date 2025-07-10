@@ -258,7 +258,7 @@ Los datos se obtienen en tiempo real desde la API pública PokeAPI.
   </a>
 </p>
 
----
+
 ## 📄 Descargar CV
 
 <p align="center">
