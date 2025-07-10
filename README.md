@@ -10,6 +10,17 @@
 🎓 Me formé en Administración de Sistemas Informáticos y me especialicé en Aplicaciones Web y Multiplataforma. Disfruto aprendiendo nuevas tecnologías y enfrentando retos que potencien mi crecimiento como desarrolladora.
 
 ---
+## Tabla de contenidos
+
+- [👩‍💻 Sobre mí](#-sobre-mí)
+- [📜 Certificados](#-certificados)
+- [💼 Experiencia profesional](#-experiencia-profesional)
+- [🎓 Proyectos académicos](#-proyectos-académicos)
+- [🚀 Proyectos destacados](#-proyectos-destacados)
+- [💡 Tecnologías que uso](#-tecnologías-que-uso)
+- [📩 Contacto](#-contacto)
+
+---
 ## 📜 Certificados
 
 <p align="center">
