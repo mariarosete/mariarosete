@@ -19,6 +19,7 @@
 - [🚀 Proyectos destacados](#-proyectos-destacados)
 - [💡 Tecnologías que uso](#-tecnologías-que-uso)
 - [📩 Contacto](#-contacto)
+- [📄 Descargar CV](#-descargar-cv)
 
 ---
 ## 📜 Certificados
@@ -257,7 +258,14 @@ Los datos se obtienen en tiempo real desde la API pública PokeAPI.
   </a>
 </p>
 
+---
+## 📄 Descargar CV
 
+<p align="center">
+  <a href="https://github.com/mariarosete/mariarosete/raw/main/assets/cv/CV_María_Rosete.pdf" download>
+    <img src="https://img.shields.io/badge/Descargar%20CV-PDF-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Descargar CV" />
+  </a>
+</p>
 ---
 
 > *“Soy una persona responsable, resolutiva y con gran capacidad de adaptación. Me motiva especialmente seguir aprendiendo y asumir nuevos retos en el desarrollo de software.”*
