@@ -19,7 +19,7 @@
 - [👩‍💻 Sobre mí](#-sobre-mí)
 - [🎓 Educación](#-educación)
 - [📜 Certificados](#-certificados)
-- [💼 Experiencia profesional reciente](#-experiencia-profesional)
+- [💼 Experiencia profesional reciente](#-experiencia-profesional-reciente)
 - [🎓 Proyectos académicos](#-proyectos-académicos)
 - [🚀 Proyectos destacados](#-proyectos-destacados)
 - [💡 Tecnologías que uso](#-tecnologías-que-uso)
