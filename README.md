@@ -107,7 +107,7 @@ He trabajado como **Desarrolladora Full Stack Jr** en entornos reales, participa
   
 - Gestión de datos estructurados con **MySQL**.
   
-- - **Pruebas unitarias** implementadas con **MSTest** para validar la lógica de negocio.
+- **Pruebas unitarias** implementadas con **MSTest** para validar la lógica de negocio.
 
   
 🏢 **Node.js + Vue.js**  
