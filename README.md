@@ -10,7 +10,7 @@
 
 🎓 Me formé en Administración de Sistemas Informáticos y me especialicé en Aplicaciones Web y Multiplataforma.
 
-🚀 **Enfocada en el desarrollo de soluciones web modernas, con especial interés en proyectos Full Stack orientados a usuario final.**
+🚀 Enfocada en el desarrollo de soluciones web modernas, con especial interés en proyectos Full Stack orientados a usuario final.
 
 ---
 
