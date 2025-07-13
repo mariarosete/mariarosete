@@ -13,6 +13,7 @@
 ## Tabla de contenidos
 
 - [👩‍💻 Sobre mí](#-sobre-mí)
+- [🎓 Educación](#-educación)
 - [📜 Certificados](#-certificados)
 - [💼 Experiencia profesional](#-experiencia-profesional)
 - [🎓 Proyectos académicos](#-proyectos-académicos)
@@ -20,6 +21,21 @@
 - [💡 Tecnologías que uso](#-tecnologías-que-uso)
 - [📩 Contacto](#-contacto)
 - [📄 Descargar CV](#-descargar-cv)
+
+---
+## 🎓 Educación
+
+- **CFGS Desarrollo de Aplicaciones Multiplataforma**  
+  *IES Número 1 Gijón*  
+  *sept. 2024 – jun. 2025*
+
+- **CFGS Desarrollo de Aplicaciones Web**  
+  *CIFP La Laboral*  
+  *ene. 2022 – jun. 2024*
+
+- **CFGS Administración de Sistemas Informáticos**  
+  *IES Número 1 Gijón*  
+  *sept. 2009 – jun. 2011*
 
 ---
 ## 📜 Certificados
