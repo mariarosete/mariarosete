@@ -19,7 +19,7 @@
 - [👩‍💻 Sobre mí](#-sobre-mí)
 - [🎓 Educación](#-educación)
 - [📜 Certificados](#-certificados)
-- [💼 Experiencia profesional](#-experiencia-profesional)
+- [💼 Experiencia profesional reciente](#-experiencia-profesional)
 - [🎓 Proyectos académicos](#-proyectos-académicos)
 - [🚀 Proyectos destacados](#-proyectos-destacados)
 - [💡 Tecnologías que uso](#-tecnologías-que-uso)
@@ -90,7 +90,7 @@
 
 ---
 
-## 💼 Experiencia profesional
+## 💼 Experiencia profesional reciente 
 
 He trabajado como **Desarrolladora Full Stack Jr** en entornos reales, participando en soluciones empresariales con stacks modernos:
 
