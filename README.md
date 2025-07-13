@@ -31,7 +31,7 @@
 
 - **CFGS Desarrollo de Aplicaciones Web**  
   *CIFP La Laboral*  
-  *ene. 2022 – jun. 2024*
+  *sept. 2022 – jun. 2024*
 
 - **CFGS Administración de Sistemas Informáticos**  
   *IES Número 1 Gijón*  
