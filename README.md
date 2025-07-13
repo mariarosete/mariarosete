@@ -106,7 +106,10 @@ He trabajado como **Desarrolladora Full Stack Jr** en entornos reales, participa
 - Uso de **Git** y **Azure DevOps** para control de versiones y despliegue continuo.
   
 - Gestión de datos estructurados con **MySQL**.
+  
+- - **Pruebas unitarias** implementadas con **MSTest** para validar la lógica de negocio.
 
+  
 🏢 **Node.js + Vue.js**  
 *Ticmedia · abr. 2024 – jun. 2024*
 
