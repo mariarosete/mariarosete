@@ -5,9 +5,9 @@
 ## 👩‍💻 Sobre mí
 
 💻 Desarrolladora **Full Stack Junior** | Backend y Frontend  
-🎯 Apasionada por crear soluciones tecnológicas útiles, escalables y centradas en el usuario.
 
-🎓 Me formé en Administración de Sistemas Informáticos y me especialicé en Aplicaciones Web y Multiplataforma. Enfocada en el desarrollo de soluciones web modernas, con especial interés en proyectos Full Stack orientados a usuario final.
+🎯 Apasionada por crear soluciones tecnológicas útiles, escalables y centradas en el usuario.
+Me formé en Administración de Sistemas Informáticos y me especialicé en Aplicaciones Web y Multiplataforma. Enfocada en el desarrollo de soluciones web modernas, con especial interés en proyectos Full Stack orientados a usuario final.
 
 ---
 ## Tabla de contenidos
