@@ -55,6 +55,8 @@
   <img src="./assets/certifications/salesforce.png" alt="Salesforce" height="60" style="object-fit:contain; background:#2e2e2e; padding:6px; border-radius:6px;" title="Salesforce" />
 </p>
 
+- **Curso de Fundamentos de React**
+  *OpenWebinars · Jul. 2025*
 
 - **Curso de MongoDB: Creación y gestión de bases de datos NoSQL**  
   *OpenWebinars · Mar. 2025*
