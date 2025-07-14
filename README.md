@@ -315,7 +315,7 @@ Los datos se obtienen en tiempo real desde la API pública PokeAPI.
 ## 📄 Descargar CV
 
 <p align="center">
-  <a href="https://github.com/mariarosete/mariarosete/raw/main/assets/cv/CV_María_Rosete.pdf" download>
+  <a href="https://github.com/mariarosete/mariarosete/raw/main/assets/cv/CV_MRS.pdf" download>
     <img src="https://img.shields.io/badge/Descargar%20CV-PDF-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Descargar CV" />
   </a>
 </p>
