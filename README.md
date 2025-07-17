@@ -47,7 +47,6 @@
 <p align="center">
   <img src="./assets/certifications/openwebinars.png" alt="OpenWebinars" height="60" style="object-fit:contain; background:#2e2e2e; padding:6px; border-radius:6px;" title="OpenWebinars" />
   <img src="./assets/certifications/sap.png" alt="SAP" height="60" style="object-fit:contain; background:#2e2e2e; padding:6px; border-radius:6px;" title="SAP" />
-  <img src="./assets/certifications/udemy.png" alt="Udemy" height="60" style="object-fit:contain; background:#2e2e2e; padding:6px; border-radius:6px;" title="Udemy" />
   <img src="./assets/certifications/coursera.png" alt="Coursera" height="60" style="object-fit:contain; background:#2e2e2e; padding:6px; border-radius:6px;" title="Coursera" />
   <img src="./assets/certifications/ecdl.png" alt="ECDL" height="60" style="object-fit:contain; background:#2e2e2e; padding:6px; border-radius:6px;" title="ECDL" />
   <img src="./assets/certifications/asata.png" alt="ASATA" height="60" style="object-fit:contain; background:#2e2e2e; padding:6px; border-radius:6px;" title="ASATA" />
@@ -57,36 +56,43 @@
 
 - **Curso de .NET Framework**  
   *OpenWebinars · Jul. 2025*  
+  [Ver credencial](https://openwebinars.net/cert/lWvO)
 
 - **Curso de Fundamentos de React**  
   *OpenWebinars · Jul. 2025*  
+  [Ver credencial](https://openwebinars.net/cert/q9Yr)
 
 - **Curso de MongoDB: Creación y gestión de bases de datos NoSQL**  
-  *OpenWebinars · Mar. 2025*
+  *OpenWebinars · Mar. 2025*  
+  [Ver credencial](https://openwebinars.net/certificacion/0QCj1YwR)
 
 - **Learning the Basics of ABAP Programming on SAP BTP**  
-  *SAP · Ene. 2025*
+  *SAP · Ene. 2025*  
+  [Ver credencial](https://www.credly.com/badges/0d749aff-8745-4737-abb0-90058a1ca0bb)
 
-- **Perfil Trailhead de Salesforce Insignias y Rutas Completadas**  
+- **Perfil Trailhead de Salesforce – Insignias y Rutas Completadas**  
   *Salesforce · Ene. 2025*
 
-- **NodeJS: De cero a experto**  
-  *Udemy · May. 2024*
-
 - **Certificado Servidor Web Apache 2.4**  
-  *OpenWebinars · Nov. 2023*
+  *OpenWebinars · Nov. 2023*  
+  [Ver credencial](https://openwebinars.net/cert/PuCz)
 
 - **Certificado profesional en Soporte de Tecnologías de la Información de Google**  
-  *Coursera · Ago. 2022*
+  *Coursera · Ago. 2022*  
+  [Ver credencial](https://www.coursera.org/account/accomplishments/professional-cert/WU7LEUWZ8FLE)
 
 - **Certificado de profesionalidad nivel 3 “Seguridad Informática”**  
-  *ASATA · Dic. 2018*
+  *ASATA · Dic. 2018*  
+  **ID de la credencial:** 03/18/00004962/IFCT0109
 
 - **Acreditación de competencias digitales europeas ECDL**  
-  *ECDL Spain · Dic. 2017*
+  *ECDL Spain · Dic. 2017*  
+  **ID de la credencial:** ES004660
 
 - **Curso de Seguridad Informática en la Gestión Empresarial**  
-  *Dicampus · 2017*
+  *Dicampus · 2017*  
+  **ID de la credencial:** PLF 2017/165
+
 
 ---
 
