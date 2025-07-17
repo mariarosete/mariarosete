@@ -326,5 +326,5 @@ Los datos se obtienen en tiempo real desde la API pública PokeAPI.
 </p>
 
 
-> *“Soy una persona responsable, resolutiva y con gran capacidad de adaptación. Me motiva especialmente seguir aprendiendo y asumir nuevos retos en el desarrollo de software.”*
+> *“Disfruto aprendiendo y enfrentando nuevos retos en el desarrollo de software. Me implico para aportar soluciones útiles y seguir creciendo profesionalmente.”*
 
