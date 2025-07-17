@@ -55,40 +55,38 @@
   <img src="./assets/certifications/salesforce.png" alt="Salesforce" height="60" style="object-fit:contain; background:#2e2e2e; padding:6px; border-radius:6px;" title="Salesforce" />
 </p>
 
+- **Curso de .NET Framework**  
+  *OpenWebinars · Jul. 2025*  
+
 - **Curso de Fundamentos de React**  
   *OpenWebinars · Jul. 2025*  
-  
+
 - **Curso de MongoDB: Creación y gestión de bases de datos NoSQL**  
   *OpenWebinars · Mar. 2025*
 
 - **Learning the Basics of ABAP Programming on SAP BTP**  
   *SAP · Ene. 2025*
 
+- **Perfil Trailhead de Salesforce Insignias y Rutas Completadas**  
+  *Salesforce · Ene. 2025*
+
 - **NodeJS: De cero a experto**  
   *Udemy · May. 2024*
 
-- **Certificado profesional en Soporte de Tecnologías de la Información de Google**  
-  *Coursera *
-
-- **Acreditación de competencias digitales europeas ECDL**  
-  *ECDL Spain *
-
 - **Certificado Servidor Web Apache 2.4**  
-  *OpenWebinars *
+  *OpenWebinars · Nov. 2023*
+
+- **Certificado profesional en Soporte de Tecnologías de la Información de Google**  
+  *Coursera · Ago. 2022*
 
 - **Certificado de profesionalidad nivel 3 “Seguridad Informática”**  
-  *ASATA *
+  *ASATA · Dic. 2018*
+
+- **Acreditación de competencias digitales europeas ECDL**  
+  *ECDL Spain · Dic. 2017*
 
 - **Curso de Seguridad Informática en la Gestión Empresarial**  
-  *Dicampus *
-
-- **Salesforce (varios cursos, 2024):**  
-  - Fundamentos de Salesforce Platform  
-  - Gestión de datos  
-  - Informes y paneles de Lightning Experience  
-  - Modelado de datos  
-  - Participación de usuario  
-  - Personalización de Lightning Experience
+  *Dicampus · 2017*
 
 ---
 
