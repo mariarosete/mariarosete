@@ -71,8 +71,8 @@
   [Ver credencial](https://www.credly.com/badges/0d749aff-8745-4737-abb0-90058a1ca0bb)
 
 - **Perfil Trailhead de Salesforce – Insignias y Rutas Completadas**  
-  *Salesforce · Ene. 2025*
-  [Ver credencial]([https://openwebinars.net/cert/lWvO](https://www.salesforce.com/trailblazer/dvpl9jhprurtdm3g7i)
+  *Salesforce · Ene. 2025*  
+  [Ver perfil](https://www.salesforce.com/trailblazer/dvpl9jhprurtdm3g7i)
 
 - **Certificado Servidor Web Apache 2.4**  
   *OpenWebinars · Nov. 2023*  
