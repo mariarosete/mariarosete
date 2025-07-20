@@ -233,6 +233,40 @@ Los datos se obtienen en tiempo real desde la API pública PokeAPI.
 
 ---
 
+<img src="https://github.com/mariarosete/servidorArchivos/blob/main/bannerServidor.png?raw=true" alt="Banner Servidor Archivos" width="100%" />
+
+### 📁 [Servidor de Archivos – Cliente Android + Servidor TCP](https://github.com/mariarosete/servidorArchivos)
+
+Aplicación de gestión de archivos en red local desarrollada con una interfaz Android moderna y un servidor TCP en Java.  
+Permite subir, descargar y visualizar archivos desde un dispositivo móvil conectado a la misma red.
+
+🔹 **Funciones principales:**
+- Listado dinámico de archivos disponibles en el servidor.
+- Descarga de ficheros seleccionados desde un Spinner.
+- Subida de cualquier tipo de archivo mediante el selector del sistema.
+- Indicador del archivo actualmente seleccionado.
+- Interfaz moderna basada en Material Design con estilos personalizados.
+- Soporte para múltiples tipos de archivo (`.pdf`, `.jpg`, `.png`, `.txt`, `.mp4`, etc.).
+- Botón de reinicio que limpia los campos y restablece el estado inicial.
+
+🔸 **Gestión de errores incluida:**
+- Validaciones para selección de archivo nula.
+- Mensajes claros al usuario con Toast informativos.
+- Control de flujo según respuestas del servidor TCP.
+
+**🛠️ Tecnologías**
+
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Material Design](https://img.shields.io/badge/Material%20Design-757575?style=for-the-badge&logo=material-design&logoColor=white)
+![Sockets TCP](https://img.shields.io/badge/Sockets-TCP-blue?style=for-the-badge)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+
+📍 *Proyecto desarrollado de forma integral, incluyendo el frontend Android y el backend en Java para comunicación mediante sockets.*
+
+
+---
+
 ## 💡 Tecnologías que uso
 
 ### 🧠 Lenguajes
