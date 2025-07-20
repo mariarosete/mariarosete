@@ -25,6 +25,7 @@
 - [💡 Tecnologías que uso](#-tecnologías-que-uso)
 - [📩 Contacto](#-contacto)
 - [📄 Descargar CV](#-descargar-cv)
+- [📊 Estadísticas de GitHub](#-estadísticas-de-github)
 
 ---
 ## 🎓 Educación
