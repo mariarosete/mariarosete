@@ -353,22 +353,34 @@ Los datos se obtienen en tiempo real desde la API pública PokeAPI.
 
 ### 🧾 Resumen del perfil
 
-[![Resumen del perfil](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mariarosete&theme=github_dark)](https://github.com/mariarosete)
+<p align="center">
+  <a href="https://github.com/mariarosete">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mariarosete&theme=github_dark" alt="Resumen del perfil" />
+  </a>
+</p>
 
 ---
 
 ### 📈 Gráfico de actividad
 
-[![Gráfico de actividad](https://github-readme-activity-graph.vercel.app/graph?username=mariarosete&theme=react-dark&hide_border=true&area=true)](https://github.com/mariarosete)
+<p align="center">
+  <a href="https://github.com/mariarosete">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=mariarosete&theme=react-dark&hide_border=true&area=true" alt="Gráfico de actividad" />
+  </a>
+</p>
+
 
 ---
 
 ### 💬 Lenguajes más usados
 
-[![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=mariarosete&layout=compact&theme=dark&hide_border=true)](https://github.com/mariarosete)
+<p align="center">
+  <a href="https://github.com/mariarosete">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariarosete&layout=compact&theme=dark&hide_border=true" alt="Lenguajes más usados" />
+  </a>
+</p>
 
 ---
-
 
 > *“Disfruto aprendiendo y enfrentando nuevos retos en el desarrollo de software. Me implico para aportar soluciones útiles y seguir creciendo profesionalmente.”*
 
