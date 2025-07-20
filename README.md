@@ -346,6 +346,8 @@ Los datos se obtienen en tiempo real desde la API pública PokeAPI.
 
 ## 📊 Estadísticas de GitHub
 
+![Visitas al perfil](https://komarev.com/ghpvc/?username=mariarosete&label=Visitas%20al%20perfil&color=0e75b6&style=flat)
+
 ### 🧾 Resumen del perfil
 
 [![Resumen del perfil](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mariarosete&theme=github_dark)](https://github.com/mariarosete)
