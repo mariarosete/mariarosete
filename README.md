@@ -233,7 +233,7 @@ Los datos se obtienen en tiempo real desde la API pública PokeAPI.
 
 ---
 
-<img src="https://github.com/mariarosete/servidorArchivos/blob/main/bannerServidor.png?raw=true" alt="Banner Servidor Archivos" width="100%" />
+<img src="https://github.com/mariarosete/servidorArchivos/blob/main/bannerServidorArchivos.png?raw=true" alt="Banner Servidor Archivos" width="100%" />
 
 ### 📁 [Servidor de Archivos – Cliente Android + Servidor TCP](https://github.com/mariarosete/servidorArchivos)
 
