@@ -237,7 +237,7 @@ Los datos se obtienen en tiempo real desde la API pública PokeAPI.
 
 ### 📁 [Servidor de Archivos – Cliente Android + Servidor TCP](https://github.com/mariarosete/servidorArchivos)
 
-Aplicación de gestión de archivos en red local desarrollada con una interfaz Android moderna y un servidor TCP en Java.  
+Aplicación de gestión de archivos en red local desarrollada con una interfaz Android moderna en **Kotlin** y un servidor TCP en **Java**.  
 Permite subir, descargar y visualizar archivos desde un dispositivo móvil conectado a la misma red.
 
 🔹 **Funciones principales:**
