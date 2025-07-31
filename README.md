@@ -55,6 +55,10 @@
   <img src="./assets/certifications/salesforce.png" alt="Salesforce" height="60" style="object-fit:contain; background:#2e2e2e; padding:6px; border-radius:6px;" title="Salesforce" />
 </p>
 
+- **Curso de Angular: Ampliando Conceptos**  
+  *OpenWebinars · Jul. 2025*  
+  [Ver credencial](https://openwebinars.net/cert/62se)
+
 - **Curso de .NET Framework**  
   *OpenWebinars · Jul. 2025*  
   [Ver credencial](https://openwebinars.net/cert/lWvO)
