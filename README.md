@@ -358,11 +358,14 @@ Permite subir, descargar y visualizar archivos desde un dispositivo móvil conec
 ---
 **🤝 Soft Skills** 
 
-![Autonomía](https://img.shields.io/badge/Autonom%C3%ADa-FFB400?style=for-the-badge&logoColor=white)  
-![Empatía](https://img.shields.io/badge/Empat%C3%ADa-FF6F61?style=for-the-badge&logoColor=white)  
-![Trabajo en equipo](https://img.shields.io/badge/Trabajo%20en%20equipo-4CAF50?style=for-the-badge&logoColor=white)  
-![Adaptabilidad](https://img.shields.io/badge/Adaptabilidad-2196F3?style=for-the-badge&logoColor=white)  
-![Responsabilidad](https://img.shields.io/badge/Responsabilidad-9C27B0?style=for-the-badge&logoColor=white)  
+<p align="center">
+  <img src="https://img.icons8.com/fluency/96/goal.png" alt="Autonomía" title="Autonomía" width="80" />
+  <img src="https://img.icons8.com/fluency/96/hand-with-a-heart.png" alt="Empatía" title="Empatía" width="80" />
+  <img src="https://img.icons8.com/fluency/96/teamwork.png" alt="Trabajo en equipo" title="Trabajo en equipo" width="80" />
+  <img src="https://img.icons8.com/fluency/96/sorting-arrows-horizontal.png" alt="Adaptabilidad" title="Adaptabilidad" width="80" />
+  <img src="https://img.icons8.com/fluency/96/holding-globe.png" alt="Responsabilidad" title="Responsabilidad" width="80" />
+</p>
+ 
 
 ---
 
