@@ -356,16 +356,6 @@ Permite subir, descargar y visualizar archivos desde un dispositivo móvil conec
 ![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black)
 
 ---
-## Soft Skills
-
-| | | | | |
-|:-:|:-:|:-:|:-:|:-:|
-| <img src="https://img.icons8.com/fluency/96/goal.png" alt="Autonomía / Motivación" title="Autonomía / Motivación" width="80"/> | <img src="https://img.icons8.com/fluency/96/hand-with-a-heart.png" alt="Empatía" title="Empatía" width="80"/> | <img src="https://img.icons8.com/fluency/96/teamwork.png" alt="Trabajo en equipo" title="Trabajo en equipo" width="80"/> | <img src="https://img.icons8.com/fluency/96/sorting-arrows-horizontal.png" alt="Adaptabilidad" title="Adaptabilidad" width="80"/> | <img src="https://img.icons8.com/fluency/96/holding-globe.png" alt="Responsabilidad" title="Responsabilidad" width="80"/> |
-| **Autonomía** | **Empatía** | **Trabajo en equipo** | **Adaptabilidad** | **Responsabilidad** |
-
- 
-
----
 
 ## 📩 Contacto
 
