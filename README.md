@@ -117,7 +117,7 @@ He trabajado como **Desarrolladora Full Stack Jr** en entornos reales, participa
   
 - Uso de **Git** y **Azure DevOps** para control de versiones y despliegue continuo.
   
-- Gestión de datos estructurados con **MySQL**.
+- Persistencia de datos con **MySQL**, realizando migraciones y gestión del modelo con **Entity Framework**.  
   
 - **Pruebas unitarias** implementadas con **MSTest** para validar la lógica de negocio.
 
