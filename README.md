@@ -14,9 +14,20 @@
 
 ---
 
+## 📄 Descargar CV
+
+<p align="center">
+  <a href="https://github.com/mariarosete/mariarosete/raw/main/assets/cv/CV_MRS.pdf" download>
+    <img src="https://img.shields.io/badge/Descargar%20CV-PDF-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Descargar CV" />
+  </a>
+</p>
+
+---
+
 ## Tabla de contenidos
 
 - [👩‍💻 Sobre mí](#-sobre-mí)
+- [📄 Descargar CV](#-descargar-cv)
 - [🎓 Educación](#-educación)
 - [📜 Certificados](#-certificados)
 - [💼 Experiencia profesional reciente](#-experiencia-profesional-reciente)
@@ -24,7 +35,6 @@
 - [🚀 Proyectos destacados](#-proyectos-destacados)
 - [💡 Tecnologías que uso](#-tecnologías-que-uso)
 - [📩 Contacto](#-contacto)
-- [📄 Descargar CV](#-descargar-cv)
 - [📊 Estadísticas de GitHub](#-estadísticas-de-github)
 
 ---
@@ -371,14 +381,6 @@ Permite subir, descargar y visualizar archivos desde un dispositivo móvil conec
   </a>
 </p>
 
-
-## 📄 Descargar CV
-
-<p align="center">
-  <a href="https://github.com/mariarosete/mariarosete/raw/main/assets/cv/CV_MRS.pdf" download>
-    <img src="https://img.shields.io/badge/Descargar%20CV-PDF-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Descargar CV" />
-  </a>
-</p>
 
 ---
 
