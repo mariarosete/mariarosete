@@ -119,29 +119,29 @@ He trabajado como **Desarrolladora Full Stack Jr** en entornos reales, participa
 🏢 **ASP.NET Core (.NET 9) + React (Vite + Tailwind)**  
 *Clarcat · mar. 2025 – jun. 2025*
 
-- Aplicación de arquitectura basada en **API REST**, con diseño de controladores y lógica de negocio orientada a servicios.
+- **Backend:** desarrollo con **.NET 9 / ASP.NET Core**, arquitectura basada en **API REST**, diseño de controladores y lógica de negocio orientada a servicios.
   
-- Desarrollo de interfaces modernas y responsive con **React**, **Vite** y **Tailwind CSS**.
+- **Frontend:** creación de interfaces modernas y responsive con **React**, **Vite** y **Tailwind CSS**.
   
-- Documentación de endpoints con **Swagger**.
+- **Persistencia:** gestión de datos estructurados con **Entity Framework** y **MySQL** (migraciones y modelado de datos).
   
-- Uso de **Git** y **Azure DevOps** para control de versiones y despliegue continuo.
+- **Calidad:** **pruebas unitarias con MSTest** para validar la lógica de negocio.
   
-- Persistencia de datos con **MySQL**, realizando migraciones y gestión del modelo con **Entity Framework**.  
-  
-- **Pruebas unitarias** implementadas con **MSTest** para validar la lógica de negocio.
-
+- **Colaboración:** documentación de APIs con **Swagger**, control de versiones con **Git** y **Azure DevOps**, e integración continua (**CI/CD**).  
   
 🏢 **Node.js + Vue.js**  
 *Ticmedia · abr. 2024 – jun. 2024*
 
-- Backend con **Node.js** y **Express.js**, incluyendo autenticación con **JWT**.
+- **Backend:** desarrollo con **Node.js** y **Express.js**, implementación de **API REST** y autenticación con **JWT**.
   
-- Desarrollo de interfaz dinámica y responsive con **Vue.js** y **Quasar Framework**.
+- **Frontend:** desarrollo de interfaz dinámica y responsive con **Vue.js** y **Quasar Framework**, creando componentes reutilizables y funcionalidades interactivas.
   
-- Modelado de documentos y gestión de datos con **MongoDB** y **Mongoose**.
+- **Persistencia:** modelado de documentos y gestión de datos con **MongoDB** y **Mongoose**.
   
-- Funcionalidades implementadas: visor de facturas con descarga en PDF, listado de noticias con paginación, banner configurable y gestión interna de usuarios, clientes y facturas.
+- **Funcionalidades implementadas:** visor de facturas en **PDF**, listado de noticias con paginación, banner configurable y gestión interna de usuarios, clientes y facturas.
+  
+- **Colaboración:** control de versiones con **GitHub** y aplicación de **buenas prácticas** en desarrollo colaborativo.  
+
 
 Estas experiencias me han permitido aplicar buenas prácticas de desarrollo, trabajar en equipo y construir soluciones escalables con tecnologías actuales del ecosistema web.
 
