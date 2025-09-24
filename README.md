@@ -119,28 +119,28 @@ He trabajado como **Desarrolladora Full Stack Jr** en entornos reales, participa
 🏢 **ASP.NET Core (.NET 9) + React (Vite + Tailwind)**  
 *Clarcat · mar. 2025 – jun. 2025*
 
-- **Backend:** desarrollo con **.NET 9 / ASP.NET Core**, arquitectura basada en **API REST**, diseño de controladores y lógica de negocio orientada a servicios.
+- **Backend:** Desarrollé y optimicé una API REST en .NET 9 / ASP.NET Core, asegurando escalabilidad y mantenibilidad del sistema.
   
-- **Frontend:** creación de interfaces modernas y responsive con **React**, **Vite** y **Tailwind CSS**.
+- **Frontend:** Implementé interfaces modernas y responsive en React + Vite + Tailwind, mejorando la usabilidad y reduciendo tiempos de carga.
   
-- **Persistencia:** gestión de datos estructurados con **Entity Framework** y **MySQL** (migraciones y modelado de datos).
+- **Persistencia:** Diseñé y gestioné la persistencia de datos con Entity Framework y MySQL, garantizando consistencia y eficiencia en migraciones y modelado.
   
-- **Calidad:** **pruebas unitarias con MSTest** para validar la lógica de negocio.
+- **Calidad:** ** Aumenté la calidad del software mediante pruebas unitarias con MSTest, reduciendo errores en producción.
   
-- **Colaboración:** documentación de APIs con **Swagger**, control de versiones con **Git** y **Azure DevOps**, e integración continua (**CI/CD**).  
+- **Colaboración:** Colaboré en la documentación de APIs con Swagger e integración continua con Azure DevOps (CI/CD), lo que aceleró despliegues y mejoró la entrega ágil.  
   
 🏢 **Node.js + Vue.js**  
 *Ticmedia · abr. 2024 – jun. 2024*
 
-- **Backend:** desarrollo con **Node.js** y **Express.js**, implementación de **API REST** y autenticación con **JWT**.
+- **Backend:** Desarrollé un backend con Node.js + Express.js, implementando API REST con autenticación JWT para un sistema de gestión interna.
   
-- **Frontend:** desarrollo de interfaz dinámica y responsive con **Vue.js** y **Quasar Framework**, creando componentes reutilizables y funcionalidades interactivas.
+- **Frontend:** Construí una interfaz dinámica y modular con Vue.js + Quasar Framework, optimizando la experiencia del usuario y reduciendo la deuda técnica.
   
-- **Persistencia:** modelado de documentos y gestión de datos con **MongoDB** y **Mongoose**.
+- **Persistencia:** Diseñé la persistencia de datos en MongoDB con Mongoose, estructurando esquemas eficientes para documentos complejos.
   
-- **Funcionalidades implementadas:** visor de facturas en **PDF**, listado de noticias con paginación, banner configurable y gestión interna de usuarios, clientes y facturas.
+- **Funcionalidades implementadas:** Implementé funcionalidades clave: visor de facturas en PDF, listado de noticias con paginación y gestión interna de usuarios y clientes.
   
-- **Colaboración:** control de versiones con **GitHub** y aplicación de **buenas prácticas** en desarrollo colaborativo.  
+- **Colaboración:** Mejoré la colaboración y control de versiones mediante GitHub y buenas prácticas ágiles, fomentando un desarrollo más ordenado y eficiente.
 
 
 Estas experiencias me han permitido aplicar buenas prácticas de desarrollo, trabajar en equipo y construir soluciones escalables con tecnologías actuales del ecosistema web.
