@@ -134,7 +134,7 @@ He trabajado como **Desarrolladora Full Stack Jr** en entornos reales, participa
 
 - **Backend:** Desarrollé un backend con Node.js + Express.js, implementando API REST con autenticación JWT para un sistema de gestión interna.
   
-- **Frontend:** Construí una interfaz dinámica y modular con Vue.js + Quasar Framework, optimizando la experiencia del usuario y reduciendo la deuda técnica.
+- **Frontend:** Construí una interfaz dinámica y modular con Vue.js + Quasar Framework, optimizando la experiencia del usuario y mejorando la mantenibilidad del código.
   
 - **Persistencia:** Diseñé la persistencia de datos en MongoDB con Mongoose, estructurando esquemas eficientes para documentos complejos.
   
