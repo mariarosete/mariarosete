@@ -121,13 +121,13 @@ He trabajado como **Desarrolladora Full Stack Jr** en entornos reales, participa
 
 - **Backend:** Desarrollé y optimicé una API REST en .NET 9 / ASP.NET Core, asegurando escalabilidad y mantenibilidad del sistema.
   
-- **Frontend:** Implementé interfaces modernas y responsive en React + Vite + Tailwind, mejorando la usabilidad y reduciendo tiempos de carga.
+- **Frontend:** Implementé interfaces modernas y responsive con React, Vite y Tailwind CSS, mejorando la usabilidad y la experiencia de usuario.
   
-- **Persistencia:** Diseñé y gestioné la persistencia de datos con Entity Framework y MySQL, garantizando consistencia y eficiencia en migraciones y modelado.
+- **Persistencia:** Consolidé las migraciones de Entity Framework en una única versión para MySQL, facilitando el mantenimiento y mejorando la estabilidad de la base de datos.
   
 - **Calidad:** ** Aumenté la calidad del software mediante pruebas unitarias con MSTest, reduciendo errores en producción.
   
-- **Colaboración:** Colaboré en la documentación de APIs con Swagger e integración continua con Azure DevOps (CI/CD), lo que aceleró despliegues y mejoró la entrega ágil.  
+- **Colaboración:** Gestioné repositorios con Git y Azure DevOps, creando PRs para revisión y validación que facilitaron integraciones más ágiles y seguras.  
   
 🏢 **Node.js + Vue.js**  
 *Ticmedia · abr. 2024 – jun. 2024*
@@ -136,7 +136,7 @@ He trabajado como **Desarrolladora Full Stack Jr** en entornos reales, participa
   
 - **Frontend:** Construí una interfaz dinámica y modular con Vue.js + Quasar Framework, optimizando la experiencia del usuario y mejorando la mantenibilidad del código.
   
-- **Persistencia:** Diseñé la persistencia de datos en MongoDB con Mongoose, estructurando esquemas eficientes para documentos complejos.
+- **Persistencia:** Gestioné datos con MongoDB/Mongoose, reforzando la seguridad y la consistencia del sistema.
   
 - **Funcionalidades implementadas:** Implementé funcionalidades clave: visor de facturas en PDF, listado de noticias con paginación y gestión interna de usuarios y clientes.
   
