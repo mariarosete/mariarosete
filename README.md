@@ -125,7 +125,7 @@ He trabajado como **Desarrolladora Full Stack Jr** en entornos reales, participa
   
 - **Persistencia:** Consolidé las migraciones de Entity Framework en una única versión para MySQL, facilitando el mantenimiento y mejorando la estabilidad de la base de datos.
   
-- **Calidad:** ** Aumenté la calidad del software mediante pruebas unitarias con MSTest, reduciendo errores en producción.
+- **Calidad:** Aumenté la calidad del software mediante pruebas unitarias con MSTest, reduciendo errores en producción.
   
 - **Colaboración:** Gestioné repositorios con Git y Azure DevOps, creando PRs para revisión y validación que facilitaron integraciones más ágiles y seguras.  
   
