@@ -1,4 +1,4 @@
-<img src="https://github.com/mariarosete/mariarosete/blob/main/Banner.png?raw=true" alt="Banner principal" width="100%" />
+<img src="https://github.com/mariarosete/mariarosete/blob/main/Banner.jpg?raw=true" alt="Banner principal" width="100%" />
 
 # 👋 ¡Hola! Soy María Rosete Suárez
 
