@@ -1,5 +1,10 @@
 <img src="https://github.com/mariarosete/mariarosete/blob/main/Banner.jpg?raw=true" alt="Banner principal" width="100%" />
 
+<p align="center">
+  🌐 <strong>Visita mi nuevo portafolio personal:</strong>  
+  <a href="https://portafolio-indol-alpha.vercel.app/" target="_blank">https://portafolio-indol-alpha.vercel.app/</a>
+</p>
+
 # 👋 ¡Hola! Soy María Rosete Suárez
 
 ## 👩‍💻 Sobre mí
