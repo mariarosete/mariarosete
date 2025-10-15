@@ -283,6 +283,30 @@ Permite subir, descargar y visualizar archivos desde un dispositivo móvil conec
 
 📍 *Proyecto desarrollado de forma integral, incluyendo el frontend Android y el backend en Java para comunicación mediante sockets.*
 
+---
+<img src="https://github.com/mariarosete/portafolio/blob/main/bannerPortafolio.png?raw=true" alt="Banner Portafolio" width="100%" />
+
+### 🌐 [Portafolio Personal – React + Vite + TailwindCSS](https://github.com/mariarosete/portafolio)
+
+Portafolio personal desarrollado para centralizar y presentar mis proyectos, experiencia y habilidades como desarrolladora **Full Stack**.  
+Cuenta con un diseño moderno, animaciones fluidas y una interfaz totalmente responsive.  
+
+🔹 **Características principales:**  
+- Presentación completa de mis proyectos destacados, experiencia, formación y certificaciones.  
+- Diseño limpio, minimalista y adaptable a cualquier dispositivo.  
+- Animaciones suaves con **Framer Motion**.  
+- Sección de contacto funcional con validación de formulario.  
+- Enlaces directos a mis redes profesionales.  
+
+**🛠️ Tecnologías**  
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=FFD62E)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/Framer%20Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
+
+📍 *Proyecto desplegado en [Vercel](https://portafolio-indol-alpha.vercel.app) con actualizaciones automáticas desde GitHub.*
 
 ---
 
