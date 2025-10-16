@@ -2,7 +2,7 @@
 
 <p align="center">
   🌐 <strong>Visita mi nuevo portafolio personal:</strong>  
-  <a href="https://portafolio-indol-alpha.vercel.app/" target="_blank">https://portafolio-indol-alpha.vercel.app/</a>
+  <a href="https://portafolio-indol-alpha.vercel.app/" target="_blank">https://mariarosete.vercel.app/</a>
 </p>
 
 # 👋 ¡Hola! Soy María Rosete Suárez
