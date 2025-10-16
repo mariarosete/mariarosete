@@ -307,7 +307,7 @@ Cuenta con un diseño moderno, animaciones fluidas y una interfaz totalmente res
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Framer Motion](https://img.shields.io/badge/Framer%20Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
 
-📍 *Proyecto desplegado en [Vercel](https://portafolio-indol-alpha.vercel.app) con actualizaciones automáticas desde GitHub.*
+📍 *Proyecto desplegado en [Vercel](https://mariarosete.vercel.app/) con actualizaciones automáticas desde GitHub.*
 
 ---
 
