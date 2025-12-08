@@ -472,15 +472,6 @@ Permite crear, editar, eliminar y buscar contactos de manera dinámica, además 
 
 ---
 
-### 💬 Lenguajes más usados
-
-<p align="center">
-  <a href="https://github.com/mariarosete">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariarosete&layout=compact&theme=dark&hide_border=true" alt="Lenguajes más usados" />
-  </a>
-</p>
-
----
 
 > *“Disfruto aprendiendo y enfrentando nuevos retos en el desarrollo de software. Me implico para aportar soluciones útiles y seguir creciendo profesionalmente.”*
 
