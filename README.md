@@ -136,7 +136,7 @@ He trabajado como **Desarrolladora Full Stack Jr** en entornos reales, participa
 - **Colaboración:** Gestioné repositorios con Git y Azure DevOps, creando PRs para revisión y validación que facilitaron integraciones más ágiles y seguras.  
   
 🏢 **Node.js + Vue.js**  
-*Ticmedia · abr. 2024 – jun. 2024*
+*Ticmedia · mar. 2024 – jun. 2024*
 
 - **Backend:** Desarrollé un backend con Node.js + Express.js, implementando API REST con autenticación JWT para un sistema de gestión interna.
   
