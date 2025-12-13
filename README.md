@@ -194,7 +194,7 @@ Aplicación Android desarrollada para facilitar la gestión de actividades en ce
 ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white) ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white) ![Material Design](https://img.shields.io/badge/Material%20Design-757575?style=for-the-badge&logo=material-design&logoColor=white)
 
 
-📍 *Incluye vídeo demostrativo en mi portafolio:* https://mariarosete.vercel.app/assets/AsgardGym-DimlY--h.mp4
+📍 *Incluye vídeo demostrativo en mi portafolio:* https://mariarosete.vercel.app/assets/AsgardGym-DimlY--h.mp4<br>
 📍 *Próximas mejoras:* sincronización con API REST y análisis de hábitos saludables
 
 ---
