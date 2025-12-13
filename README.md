@@ -399,6 +399,41 @@ Incluye un **FlowDocument** interactivo con secciones formateadas e imágenes, y
 📍 *Proyecto ejecutable desde Visual Studio. La base de datos se encuentra en `recetas.accdb`.*
 
 ---
+<img src="https://github.com/mariarosete/disney-drag-drop/blob/main/screenshots/disney.png?raw=true" alt="Banner Juego Disney Drag & Drop" width="100%" />
+
+### 🎮 [¿Quién es este personaje de Disney? – Drag & Drop Game (HTML · CSS · JavaScript)](https://github.com/mariarosete/disney-drag-drop)
+
+Proyecto frontend desarrollado con **HTML, CSS y JavaScript (Vanilla)**, centrado en la implementación de la **Drag & Drop API**, lógica de juego, carga dinámica de datos y experiencia de usuario.
+
+El proyecto consiste en un **juego interactivo** donde el usuario debe asociar correctamente personajes de Disney con sus nombres, recibiendo **feedback visual inmediato** y pudiendo consultar **información detallada** de cada personaje.
+
+🔹 **Características principales:**  
+- Juego **Drag & Drop** con personajes de Disney.  
+- Selección de **4 personajes aleatorios** en cada partida.  
+- Validación visual:
+  - ✔️ Correcto → se marca en verde y se bloquea.  
+  - ❌ Incorrecto → se marca en rojo de forma temporal.  
+- Verificación automática de victoria y **mensaje final de enhorabuena**.  
+- Botón **Reiniciar** para generar una nueva combinación.  
+- Vista alternativa de **información de personajes**:
+  - Fichas con imagen, nombre y descripción.
+  - Animación tipo **flip** para mostrar información adicional.  
+- Carga dinámica de datos desde archivo **JSON** mediante `fetch`.  
+- Código modular y organizado en funciones reutilizables.
+
+**🛠️ Tecnologías**  
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Drag and Drop](https://img.shields.io/badge/Drag%20%26%20Drop-API-blue?style=for-the-badge)
+![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white)
+
+📍 *Incluye vídeo demostrativo en mi portafolio:*  <br>
+📍 *Proyecto ejecutable directamente en el navegador (HTML + JS Vanilla).*  <br>
+📍 *Ideal para practicar lógica de juego, Drag & Drop y manipulación del DOM sin frameworks.*
+
+---
 
 
 ## 💡 Tecnologías que uso
