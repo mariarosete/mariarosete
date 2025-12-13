@@ -503,6 +503,9 @@ Incluye un **FlowDocument** interactivo con secciones formateadas e imágenes, y
     <img src="https://img.shields.io/badge/Portafolio-000000?style=for-the-badge&logo=vercel&logoColor=white"></a>
 </p>
 
+---
+
+> *“Disfruto aprendiendo y enfrentando nuevos retos en el desarrollo de software. Me implico para aportar soluciones útiles y seguir creciendo profesionalmente.”*
 
 ---
 
@@ -534,5 +537,4 @@ Incluye un **FlowDocument** interactivo con secciones formateadas e imágenes, y
 ---
 
 
-> *“Disfruto aprendiendo y enfrentando nuevos retos en el desarrollo de software. Me implico para aportar soluciones útiles y seguir creciendo profesionalmente.”*
 
