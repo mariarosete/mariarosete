@@ -429,7 +429,7 @@ El proyecto consiste en un **juego interactivo** donde el usuario debe asociar c
 ![Drag and Drop](https://img.shields.io/badge/Drag%20%26%20Drop-API-blue?style=for-the-badge)
 ![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white)
 
-📍 *Incluye vídeo demostrativo en mi portafolio:*  <br>
+📍 *Incluye vídeo demostrativo en mi portafolio:* https://mariarosete.vercel.app/assets/disney-a0aX88cA.mp4  <br>
 📍 *Proyecto ejecutable directamente en el navegador (HTML + JS Vanilla).*  <br>
 📍 *Ideal para practicar lógica de juego, Drag & Drop y manipulación del DOM sin frameworks.*
 
