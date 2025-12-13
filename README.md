@@ -339,6 +339,59 @@ Permite crear, editar, eliminar y buscar contactos de manera dinámica, además 
 📍 *Proyecto ejecutable localmente mediante Node.js y npm, con configuración de entorno a través de archivo `.env`.*
 
 ---
+<img src="https://github.com/mariarosete/pasteleriaCreativa/blob/main/screenshots/fondo.png?raw=true" alt="Banner Pastelería Creativa (Java Swing)" width="100%" />
+
+### 🍰 [Pastelería Creativa – Aplicación de escritorio en Java Swing](https://github.com/mariarosete/pasteleriaCreativa)
+
+Aplicación de escritorio desarrollada en **Java Swing** para crear y gestionar recetas de repostería desde una interfaz visual e intuitiva.  
+Permite definir postres, añadir ingredientes, guardar y cargar recetas desde archivos de texto, personalizar la interfaz y acceder a una ayuda integrada con **JavaHelp**.
+
+🔹 **Características principales:**  
+- Creación de recetas: **nombre**, **tipo** y **categoría**.  
+- Gestión dinámica de ingredientes con **menú contextual** (clic derecho) y opción de **limpiar todos**.  
+- Guardar/cargar recetas y **generar archivo de texto** con todas las recetas.  
+- Personalización del **color del texto** en paneles de postres e ingredientes.  
+- **JavaHelp** integrado (acceso desde menú, barra de herramientas y tecla **F1**).  
+- Componentes personalizados (botón corazón y paneles con bordes redondeados/sombra).
+
+**🛠️ Tecnologías**  
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Swing](https://img.shields.io/badge/Java%20Swing-5382A1?style=for-the-badge&logo=java&logoColor=white)
+![JavaHelp](https://img.shields.io/badge/JavaHelp-4479A1?style=for-the-badge&logo=oracle&logoColor=white)
+
+📍 *Incluye vídeo demostrativo en mi portafolio:* https://mariarosete.vercel.app/assets/pasteleria-D-NwjL4p.mp4
+
+---
+<img src="https://github.com/mariarosete/pasteleria/blob/main/screenshots/pasteleria.png?raw=true" alt="Banner Pastelería Creativa (WPF)" width="100%" />
+
+### 🧁 [Pastelería Creativa – FlowDocument + DataGrid (WPF)](https://github.com/mariarosete/pasteleria)
+
+Proyecto desarrollado en **WPF (C#)** orientado al mundo de la **pastelería creativa**.  
+Incluye un **FlowDocument** interactivo con secciones formateadas e imágenes, y un módulo de **acceso a datos** con **DataGrid** y operaciones **CRUD** conectado a una base de datos **Microsoft Access** (`recetas.accdb`).
+
+🔹 **Características principales:**  
+- FlowDocument con secciones: **Recetas**, **Postres** y **Decoraciones**.  
+- Acciones: **guardar**, **cargar**, **eliminar** e **imprimir** el documento.  
+- Interactividad con **triggers** (hover en botones) y **eventos** (clic en imágenes).  
+- Formato avanzado: columnas, listas, tablas (con combinación de celdas), imágenes flotantes/en línea e hipervínculos.  
+- DataGrid con **CRUD completo** (insertar/modificar/eliminar) y navegación por registros.  
+- Estilos y animaciones WPF aplicados a botones y ventana.
+
+**🛠️ Tecnologías**  
+
+![CSharp](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![WPF](https://img.shields.io/badge/WPF-512BD4?style=for-the-badge&logo=.net&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white)
+![XAML](https://img.shields.io/badge/XAML-0C54C2?style=for-the-badge&logo=windows&logoColor=white)
+![FlowDocument](https://img.shields.io/badge/FlowDocument-WPF-blue?style=for-the-badge)
+![DataGrid](https://img.shields.io/badge/DataGrid-WPF-purple?style=for-the-badge)
+![Access](https://img.shields.io/badge/Microsoft%20Access-A4373A?style=for-the-badge&logo=microsoft-access&logoColor=white)
+
+📍 *Proyecto ejecutable desde Visual Studio. La base de datos se encuentra en `recetas.accdb`.*
+
+---
+
 
 ## 💡 Tecnologías que uso
 
