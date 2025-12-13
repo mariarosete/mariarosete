@@ -395,7 +395,7 @@ Incluye un **FlowDocument** interactivo con secciones formateadas e imágenes, y
 ![FlowDocument](https://img.shields.io/badge/FlowDocument-WPF-blue?style=for-the-badge)
 ![Access](https://img.shields.io/badge/Microsoft%20Access-A4373A?style=for-the-badge&logo=microsoft-access&logoColor=white)
 
-📍 *Incluye vídeo demostrativo en mi portafolio:*      <br>
+📍 *Incluye vídeo demostrativo en mi portafolio:* https://mariarosete.vercel.app/assets/flowDocument-BkDYHWvr.mp4 <br>
 📍 *Proyecto ejecutable desde Visual Studio. La base de datos se encuentra en `recetas.accdb`.*
 
 ---
