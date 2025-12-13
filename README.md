@@ -253,7 +253,7 @@ Los datos se obtienen en tiempo real desde la API pública PokeAPI.
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
 
-📍 *Incluye vídeo demostrativo en mi portafolio:* https://mariarosete.vercel.app/assets/Pokedex-CnSHgZBe.mp4
+📍 *Incluye vídeo demostrativo en mi portafolio:* https://mariarosete.vercel.app/assets/Pokedex-CnSHgZBe.mp4<br>
 📍 *Proyecto realizado como parte de una formación intensiva en Angular*
 
 ---
@@ -287,7 +287,7 @@ Permite subir, descargar y visualizar archivos desde un dispositivo móvil conec
 ![Sockets TCP](https://img.shields.io/badge/Sockets-TCP-blue?style=for-the-badge)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 
-📍 *Incluye vídeo demostrativo en mi portafolio:* https://mariarosete.vercel.app/assets/Servidor-I_unzXxa.mp4
+📍 *Incluye vídeo demostrativo en mi portafolio:* https://mariarosete.vercel.app/assets/Servidor-I_unzXxa.mp4<br>
 📍 *Proyecto desarrollado de forma integral, incluyendo el frontend Android y el backend en Java para comunicación mediante sockets.*
 
 ---
@@ -343,7 +343,7 @@ Permite crear, editar, eliminar y buscar contactos de manera dinámica, además 
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
 
-📍 *Incluye vídeo demostrativo en mi portafolio:* https://mariarosete.vercel.app/assets/agenda-Bt2Pe7ie.mp4
+📍 *Incluye vídeo demostrativo en mi portafolio:* https://mariarosete.vercel.app/assets/agenda-Bt2Pe7ie.mp4<br>
 📍 *Proyecto ejecutable localmente mediante Node.js y npm, con configuración de entorno a través de archivo `.env`.*
 
 ---
@@ -395,7 +395,7 @@ Incluye un **FlowDocument** interactivo con secciones formateadas e imágenes, y
 ![FlowDocument](https://img.shields.io/badge/FlowDocument-WPF-blue?style=for-the-badge)
 ![Access](https://img.shields.io/badge/Microsoft%20Access-A4373A?style=for-the-badge&logo=microsoft-access&logoColor=white)
 
-📍 *Incluye vídeo demostrativo en mi portafolio:* 
+📍 *Incluye vídeo demostrativo en mi portafolio:*      <br>
 📍 *Proyecto ejecutable desde Visual Studio. La base de datos se encuentra en `recetas.accdb`.*
 
 ---
