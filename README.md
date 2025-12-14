@@ -434,7 +434,7 @@ El proyecto consiste en un **juego interactivo** donde el usuario debe asociar c
 📍 *Ideal para practicar lógica de juego, Drag & Drop y manipulación del DOM sin frameworks.*
 
 ---
-<img src="https://github.com/mariarosete/digidraw-pizarra/blob/main/screenshots/digidraw.png?raw=true" alt="Banner DigiDraw Pizarra Digital" width="100%" />
+<img src="https://github.com/mariarosete/digidraw-pizarra/blob/main/screenshots/pizarra.png?raw=true" alt="Banner DigiDraw Pizarra Digital" width="100%" />
 
 ### 🖍️ [DigiDraw – Pizarra Digital con Canvas (HTML · CSS · JavaScript)](https://github.com/mariarosete/digidraw-pizarra)
 
