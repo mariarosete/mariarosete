@@ -434,6 +434,38 @@ El proyecto consiste en un **juego interactivo** donde el usuario debe asociar c
 📍 *Ideal para practicar lógica de juego, Drag & Drop y manipulación del DOM sin frameworks.*
 
 ---
+<img src="https://github.com/mariarosete/digidraw-pizarra/blob/main/screenshots/digidraw.png?raw=true" alt="Banner DigiDraw Pizarra Digital" width="100%" />
+
+### 🖍️ [DigiDraw – Pizarra Digital con Canvas (HTML · CSS · JavaScript)](https://github.com/mariarosete/digidraw-pizarra)
+
+Proyecto frontend desarrollado con **HTML, CSS y JavaScript (Vanilla)**, centrado en el uso del **Canvas API**, dibujo interactivo, manipulación de imágenes y texto, y una experiencia de usuario visual e intuitiva.
+
+DigiDraw es una **pizarra digital** que permite dibujar a mano alzada, cambiar colores y grosores, borrar contenido, insertar imágenes y añadir texto directamente sobre el lienzo sin necesidad de recargar la página.
+
+🔹 **Características principales:**  
+- Dibujo libre sobre **Canvas** con eventos de ratón.  
+- Selección de **colores** mediante paleta y selector personalizado.  
+- Control de **grosor del trazo** (fino, medio y grueso).  
+- **Goma de borrar** usando `globalCompositeOperation`.  
+- Botón para **borrar todo** el lienzo.  
+- Inserción de **imágenes** desde el equipo mediante `FileReader`.  
+- Inserción de **texto personalizado** directamente en el canvas.  
+- Cursores personalizados para rotulador y goma.  
+- Interfaz visual con fondo temático tipo pizarra y panel lateral de herramientas.
+
+**🛠️ Tecnologías**  
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Canvas](https://img.shields.io/badge/Canvas-HTML5-blue?style=for-the-badge)
+
+
+📍 *Incluye vídeo demostrativo en mi portafolio:* https://mariarosete.vercel.app/assets/pizarra-BrZLf9kx.mp4 <br>
+📍 *Proyecto ejecutable directamente en el navegador (HTML + JS Vanilla).*  <br>
+📍 *Ideal para practicar Canvas, eventos de ratón y manipulación gráfica sin frameworks.*  
+
+---
 
 
 ## 💡 Tecnologías que uso
