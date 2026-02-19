@@ -10,13 +10,13 @@
 
 ## 👩‍💻 Sobre mí
 
-💻 Desarrolladora Full Stack Junior especializada en .NET (ASP.NET Core) y React
+🔹 Desarrolladora Full Stack Junior especializada en .NET (ASP.NET Core) y React
 
-🎯 Apasionada por crear soluciones tecnológicas útiles, escalables y centradas en el usuario, con especial foco en aplicaciones web modernas.
+🔹 Apasionada por crear soluciones tecnológicas útiles, escalables y centradas en el usuario, con especial foco en aplicaciones web modernas.
 
-🎓 Me formé en Administración de Sistemas Informáticos y me especialicé en Aplicaciones Web y Multiplataforma.
+🔹 Me formé en Administración de Sistemas Informáticos y me especialicé en Aplicaciones Web y Multiplataforma.
 
-🎯 Enfocada en proyectos Full Stack con backend sólido y frontend moderno, aplicando buenas prácticas y orientación a producto.
+🔹 Enfocada en proyectos Full Stack con backend sólido y frontend moderno, aplicando buenas prácticas y orientación a producto.
 
 ---
 
