@@ -62,7 +62,7 @@
 ## 📜 Certificados
 
 <p align="center">
-  <img src="./assets/certifications/servicenowp.png" alt="ServiceNow" height="60" style="object-fit:contain; background:#2e2e2e; padding:6px; border-radius:6px;" title="Servicenow" />
+  <img src="./assets/certifications/servicenow.png" alt="ServiceNow" height="60" style="object-fit:contain; background:#2e2e2e; padding:6px; border-radius:6px;" title="Servicenow" />
   <img src="./assets/certifications/freecodecamp.png" alt="Freecodecamp" height="60" style="object-fit:contain; background:#2e2e2e; padding:6px; border-radius:6px;" title="Freecodecamp" />
   <img src="./assets/certifications/openwebinars.png" alt="OpenWebinars" height="60" style="object-fit:contain; background:#2e2e2e; padding:6px; border-radius:6px;" title="OpenWebinars" />
   <img src="./assets/certifications/sap.png" alt="SAP" height="60" style="object-fit:contain; background:#2e2e2e; padding:6px; border-radius:6px;" title="SAP" />
@@ -73,7 +73,7 @@
   <img src="./assets/certifications/salesforce.png" alt="Salesforce" height="60" style="object-fit:contain; background:#2e2e2e; padding:6px; border-radius:6px;" title="Salesforce" />
 </p>
 
-- **Foundational C# with Microsoft**  
+- **Micro-Certification – Welcome to ServiceNow**  
   *ServiceNow · Feb. 2026*  
   [Ver credencial](https://www.linkedin.com/in/mariarosetesuarez/overlay/1771586252483/single-media-viewer/?profileId=ACoAAEr-PaoBY5xohXS4VTc50eGRdX1PM-ImnOo)
 
