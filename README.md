@@ -133,7 +133,7 @@
 He trabajado como **Desarrolladora Full Stack Jr** en entornos reales, participando en soluciones empresariales con stacks modernos:
 
 🏢 **ASP.NET Core (.NET 9) + React (Vite + Tailwind)**  
-*Clarcat · mar. 2025 – jun. 2025*
+*Clarcat Cantábrico S.L. · mar. 2025 – jun. 2025*
 
 - **Backend:** Desarrollé y optimicé una API REST en .NET 9 / ASP.NET Core, asegurando escalabilidad y mantenibilidad del sistema.
   
@@ -146,7 +146,7 @@ He trabajado como **Desarrolladora Full Stack Jr** en entornos reales, participa
 - **Colaboración:** Gestioné repositorios con Git y Azure DevOps, creando PRs para revisión y validación que facilitaron integraciones más ágiles y seguras.  
   
 🏢 **Node.js + Vue.js**  
-*Ticmedia · mar. 2024 – jun. 2024*
+*Ticmedia Soluciones Profesionales, S.L. · mar. 2024 – jun. 2024*
 
 - **Backend:** Desarrollé un backend con Node.js + Express.js, implementando API REST con autenticación JWT para un sistema de gestión interna.
   
