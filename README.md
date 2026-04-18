@@ -301,7 +301,7 @@ Permite subir, descargar y visualizar archivos desde un dispositivo móvil conec
 📍 *Proyecto desarrollado de forma integral, incluyendo el frontend Android y el backend en Java para comunicación mediante sockets.*
 
 ---
-<img src="https://github.com/mariarosete/portafolio/blob/main/bannerPortafolio.png?raw=true" alt="Banner Portafolio" width="100%" />
+<img src="https://github.com/mariarosete/portafolio/blob/main/banner.png?raw=true" alt="Banner Portafolio" width="100%" />
 
 ### 🌐 [Portafolio Personal – React + Vite + TailwindCSS](https://github.com/mariarosete/portafolio)
 
