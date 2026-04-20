@@ -1,12 +1,12 @@
 <img src="https://github.com/mariarosete/mariarosete/blob/main/portada.png?raw=true" alt="Banner principal" width="100%" />
 
 <p align="center">
-  🌐 <strong>Visita mi nuevo portafolio personal:</strong><br>
+  🌐 <strong>Visita mi nuevo portfolio personal:</strong><br>
   <a href="https://mariarosete.vercel.app/" target="_blank">https://mariarosete.vercel.app/</a>
 </p>
 
 
-# 👋 ¡Hola! Soy María Rosete Suárez
+# 👋 ¡Hola! Soy María Rosete 
 
 ## 👩‍💻 Sobre mí
 
