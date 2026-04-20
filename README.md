@@ -303,9 +303,9 @@ Permite subir, descargar y visualizar archivos desde un dispositivo móvil conec
 ---
 <img src="https://github.com/mariarosete/portafolio/blob/main/banner.png?raw=true" alt="Banner Portafolio" width="100%" />
 
-### 🌐 [Portafolio Personal – React + Vite + TailwindCSS](https://github.com/mariarosete/portafolio)
+### 🌐 [Portfolio Personal – React + Vite + TailwindCSS](https://github.com/mariarosete/portafolio)
 
-Portafolio personal desarrollado para centralizar y presentar mis proyectos, experiencia y habilidades como desarrolladora **Full Stack**.  
+Portfolio personal desarrollado para centralizar y presentar mis proyectos, experiencia y habilidades como desarrolladora **Full Stack**.  
 Cuenta con un diseño moderno, animaciones fluidas y una interfaz totalmente responsive.  
 
 🔹 **Características principales:**  
