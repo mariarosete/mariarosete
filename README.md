@@ -1,4 +1,4 @@
-<img src="https://github.com/mariarosete/mariarosete/blob/main/banner.png?raw=true" alt="Banner principal" width="100%" />
+<img src="https://github.com/mariarosete/mariarosete/blob/main/portada.png?raw=true" alt="Banner principal" width="100%" />
 
 <p align="center">
   🌐 <strong>Visita mi nuevo portfolio personal:</strong><br>
