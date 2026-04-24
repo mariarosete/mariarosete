@@ -380,7 +380,7 @@ Permite definir postres, añadir ingredientes, guardar y cargar recetas desde ar
 ![Swing](https://img.shields.io/badge/Java%20Swing-5382A1?style=for-the-badge&logo=java&logoColor=white)
 ![JavaHelp](https://img.shields.io/badge/JavaHelp-4479A1?style=for-the-badge&logo=oracle&logoColor=white)
 
-📍 *Incluye vídeo demostrativo en mi portfolio:* https://mariarosete.vercel.app/assets/pasteleria-D-NwjL4p.mp4
+🎥 Demo en vídeo: https://mariarosete.vercel.app/assets/pasteleria-D-NwjL4p.mp4
 
 ---
 <img src="https://github.com/mariarosete/pasteleria/blob/main/screenshots/pasteleria.png?raw=true" alt="Banner Pastelería Creativa (WPF)" width="100%" />
