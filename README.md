@@ -263,7 +263,9 @@ Los datos se obtienen en tiempo real desde la API pública PokeAPI.
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
 
-📍 *Incluye vídeo demostrativo en mi portfolio:* https://mariarosete.vercel.app/assets/Pokedex-CnSHgZBe.mp4<br>
+🔗 https://disney-drag-drop.vercel.app/
+🎥 Demo en vídeo: https://mariarosete.vercel.app/assets/Pokedex-CnSHgZBe.mp4
+
 📍 *Proyecto realizado como parte de una formación intensiva en Angular*
 
 ---
@@ -439,7 +441,9 @@ El proyecto consiste en un **juego interactivo** donde el usuario debe asociar c
 ![Drag and Drop](https://img.shields.io/badge/Drag%20%26%20Drop-API-blue?style=for-the-badge)
 ![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white)
 
-📍 *Incluye vídeo demostrativo en mi portfolio:* https://mariarosete.vercel.app/assets/disney-a0aX88cA.mp4  <br>
+🔗 https://disney-drag-drop.vercel.app/
+🎥 Demo en vídeo: https://mariarosete.vercel.app/assets/disney-a0aX88cA.mp4 
+
 📍 *Proyecto ejecutable directamente en el navegador (HTML + JS Vanilla).*  <br>
 📍 *Ideal para practicar lógica de juego, Drag & Drop y manipulación del DOM sin frameworks.*
 
@@ -470,8 +474,9 @@ DigiDraw es una **pizarra digital** que permite dibujar a mano alzada, cambiar c
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Canvas](https://img.shields.io/badge/Canvas-HTML5-blue?style=for-the-badge)
 
+🔗 https://digidraw-app.vercel.app/
+🎥 Demo en vídeo: https://mariarosete.vercel.app/assets/pizarra-BrZLf9kx.mp4  
 
-📍 *Incluye vídeo demostrativo en mi portfolio:* https://mariarosete.vercel.app/assets/pizarra-BrZLf9kx.mp4 <br>
 📍 *Proyecto ejecutable directamente en el navegador (HTML + JS Vanilla).*  <br>
 📍 *Ideal para practicar Canvas, eventos de ratón y manipulación gráfica sin frameworks.*  
 
