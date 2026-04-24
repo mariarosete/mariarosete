@@ -236,7 +236,7 @@ Plataforma web para la gestión de cursos y recursos educativos, dirigida a estu
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-🎥* Demo en vídeo:* https://mariarosete.vercel.app/assets/skillTech-CbHMBt_u.mp4
+🎥 Demo en vídeo: https://mariarosete.vercel.app/assets/skillTech-CbHMBt_u.mp4
 
 ---
 
@@ -299,7 +299,7 @@ Permite subir, descargar y visualizar archivos desde un dispositivo móvil conec
 ![Sockets TCP](https://img.shields.io/badge/Sockets-TCP-blue?style=for-the-badge)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 
-🎥* Demo en vídeo:* https://mariarosete.vercel.app/assets/Servidor-I_unzXxa.mp4<br>
+🎥 Demo en vídeo: https://mariarosete.vercel.app/assets/Servidor-I_unzXxa.mp4<br>
 📍 *Proyecto desarrollado de forma integral, incluyendo el frontend Android y el backend en Java para comunicación mediante sockets.*
 
 ---
@@ -355,7 +355,7 @@ Permite crear, editar, eliminar y buscar contactos de manera dinámica, además 
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
 
-🎥* Demo en vídeo:* https://mariarosete.vercel.app/assets/agenda-Bt2Pe7ie.mp4<br>
+🎥 Demo en vídeo: https://mariarosete.vercel.app/assets/agenda-Bt2Pe7ie.mp4<br>
 📍 *Proyecto ejecutable localmente mediante Node.js y npm, con configuración de entorno a través de archivo `.env`.*
 
 ---
@@ -407,7 +407,7 @@ Incluye un **FlowDocument** interactivo con secciones formateadas e imágenes, y
 ![FlowDocument](https://img.shields.io/badge/FlowDocument-WPF-blue?style=for-the-badge)
 ![Access](https://img.shields.io/badge/Microsoft%20Access-A4373A?style=for-the-badge&logo=microsoft-access&logoColor=white)
 
-🎥* Demo en vídeo:* https://mariarosete.vercel.app/assets/flowDocument-BkDYHWvr.mp4 <br>
+🎥 Demo en vídeo: https://mariarosete.vercel.app/assets/flowDocument-BkDYHWvr.mp4 <br>
 📍 *Proyecto ejecutable desde Visual Studio. La base de datos se encuentra en `recetas.accdb`.*
 
 ---
