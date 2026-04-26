@@ -205,7 +205,7 @@ Aplicación Android desarrollada para facilitar la gestión de actividades en ce
 
 
 🎥 **Demo en vídeo:**  
- https://mariarosete.vercel.app/assets/AsgardGym-DimlY--h.mp4<br>
+ https://mariarosete.vercel.app/assets/AsgardGym-DimlY--h.mp4 <br>
 📍 *Próximas mejoras:* sincronización con API REST y análisis de hábitos saludables
 
 ---
