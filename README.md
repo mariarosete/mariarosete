@@ -273,7 +273,7 @@ Los datos se obtienen en tiempo real desde la API pública PokeAPI.
  https://pokedex-maria.vercel.app/<br>
 
 🎥 **Demo en vídeo:**  
- https://mariarosete.vercel.app/assets/Pokedex-CnSHgZBe.mp4<br><br>
+ https://mariarosete.vercel.app/Pokedex.mp4<br><br>
 
 📍 *Proyecto realizado como parte de una formación intensiva en Angular*
 
