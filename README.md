@@ -309,7 +309,7 @@ Permite subir, descargar y visualizar archivos desde un dispositivo móvil conec
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 
 🎥 **Demo en vídeo:**  
- https://mariarosete.vercel.app/Pokedex.mp4<br><br>
+ https://mariarosete.vercel.app/assets/Servidor-I_unzXxa.mp4<br><br>
 📍 *Proyecto desarrollado de forma integral, incluyendo el frontend Android y el backend en Java para comunicación mediante sockets.*
 
 ---
