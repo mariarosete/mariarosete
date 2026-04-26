@@ -204,7 +204,8 @@ Aplicación Android desarrollada para facilitar la gestión de actividades en ce
 ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white) ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white) ![Material Design](https://img.shields.io/badge/Material%20Design-757575?style=for-the-badge&logo=material-design&logoColor=white)
 
 
-🎥 Demo en vídeo: https://mariarosete.vercel.app/assets/AsgardGym-DimlY--h.mp4<br>
+🎥 **Demo en vídeo:**  
+ https://mariarosete.vercel.app/assets/AsgardGym-DimlY--h.mp4<br>
 📍 *Próximas mejoras:* sincronización con API REST y análisis de hábitos saludables
 
 ---
@@ -236,7 +237,12 @@ Plataforma web para la gestión de cursos y recursos educativos, dirigida a estu
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-🎥 Demo en vídeo: https://mariarosete.vercel.app/assets/skillTech-CbHMBt_u.mp4
+
+ 🌐 **Aplicación en funcionamiento:**  
+ https://maria-skilltech.vercel.app/usuarios/html/anonimo/indexAnonimo.html <br>
+
+🎥 **Demo en vídeo:**  
+ https://mariarosete.vercel.app/assets/skillTech-CbHMBt_u.mp4
 
 ---
 
@@ -263,8 +269,11 @@ Los datos se obtienen en tiempo real desde la API pública PokeAPI.
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
 
-🔗 https://pokedex-maria.vercel.app/<br>
-🎥 Demo en vídeo: https://mariarosete.vercel.app/assets/Pokedex-CnSHgZBe.mp4
+🌐 **Aplicación en funcionamiento:**  
+ https://pokedex-maria.vercel.app/<br>
+
+🎥 **Demo en vídeo:**  
+ https://mariarosete.vercel.app/assets/Pokedex-CnSHgZBe.mp4<br>
 
 📍 *Proyecto realizado como parte de una formación intensiva en Angular*
 
@@ -299,7 +308,8 @@ Permite subir, descargar y visualizar archivos desde un dispositivo móvil conec
 ![Sockets TCP](https://img.shields.io/badge/Sockets-TCP-blue?style=for-the-badge)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 
-🎥 Demo en vídeo: https://mariarosete.vercel.app/assets/Servidor-I_unzXxa.mp4<br>
+🎥 **Demo en vídeo:**  
+ https://mariarosete.vercel.app/assets/Servidor-I_unzXxa.mp4<br>
 📍 *Proyecto desarrollado de forma integral, incluyendo el frontend Android y el backend en Java para comunicación mediante sockets.*
 
 ---
@@ -325,7 +335,9 @@ Cuenta con un diseño moderno, animaciones fluidas y una interfaz totalmente res
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Framer Motion](https://img.shields.io/badge/Framer%20Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
 
-📍 *Proyecto desplegado en [Vercel](https://mariarosete.vercel.app/) con actualizaciones automáticas desde GitHub.*
+
+🌐 **Aplicación en funcionamiento:**  
+ https://mariarosete.vercel.app/
 
 ---
 
@@ -355,7 +367,8 @@ Permite crear, editar, eliminar y buscar contactos de manera dinámica, además 
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
 
-🎥 Demo en vídeo: https://mariarosete.vercel.app/assets/agenda-Bt2Pe7ie.mp4<br>
+🎥 **Demo en vídeo:**  
+ https://mariarosete.vercel.app/assets/agenda-Bt2Pe7ie.mp4<br>
 📍 *Proyecto ejecutable localmente mediante Node.js y npm, con configuración de entorno a través de archivo `.env`.*
 
 ---
@@ -380,7 +393,10 @@ Permite definir postres, añadir ingredientes, guardar y cargar recetas desde ar
 ![Swing](https://img.shields.io/badge/Java%20Swing-5382A1?style=for-the-badge&logo=java&logoColor=white)
 ![JavaHelp](https://img.shields.io/badge/JavaHelp-4479A1?style=for-the-badge&logo=oracle&logoColor=white)
 
-🎥 Demo en vídeo: https://mariarosete.vercel.app/assets/pasteleria-D-NwjL4p.mp4
+
+🎥 **Demo en vídeo:**  
+ https://mariarosete.vercel.app/assets/pasteleria-D-NwjL4p.mp4
+
 
 ---
 <img src="https://github.com/mariarosete/pasteleria/blob/main/screenshots/pasteleria.png?raw=true" alt="Banner Pastelería Creativa (WPF)" width="100%" />
@@ -407,7 +423,9 @@ Incluye un **FlowDocument** interactivo con secciones formateadas e imágenes, y
 ![FlowDocument](https://img.shields.io/badge/FlowDocument-WPF-blue?style=for-the-badge)
 ![Access](https://img.shields.io/badge/Microsoft%20Access-A4373A?style=for-the-badge&logo=microsoft-access&logoColor=white)
 
-🎥 Demo en vídeo: https://mariarosete.vercel.app/assets/flowDocument-BkDYHWvr.mp4 <br>
+
+🎥 **Demo en vídeo:**  
+ https://mariarosete.vercel.app/assets/flowDocument-BkDYHWvr.mp4 <br>
 📍 *Proyecto ejecutable desde Visual Studio. La base de datos se encuentra en `recetas.accdb`.*
 
 ---
@@ -441,8 +459,12 @@ El proyecto consiste en un **juego interactivo** donde el usuario debe asociar c
 ![Drag and Drop](https://img.shields.io/badge/Drag%20%26%20Drop-API-blue?style=for-the-badge)
 ![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white)
 
-🔗 https://disney-drag-drop.vercel.app/<br>
-🎥 Demo en vídeo: https://mariarosete.vercel.app/assets/disney-a0aX88cA.mp4 
+
+🌐 **Aplicación en funcionamiento:**  
+ https://disney-drag-drop.vercel.app/<br>
+
+🎥 **Demo en vídeo:**  
+ https://mariarosete.vercel.app/assets/disney-a0aX88cA.mp4
 
 📍 *Proyecto ejecutable directamente en el navegador (HTML + JS Vanilla).*  <br>
 📍 *Ideal para practicar lógica de juego, Drag & Drop y manipulación del DOM sin frameworks.*
@@ -477,8 +499,8 @@ DigiDraw es una **pizarra digital** que permite dibujar a mano alzada, cambiar c
 🌐 **Aplicación en funcionamiento:**  
  https://digidraw-app.vercel.app/ <br>
 
-🎥 ** Demo en vídeo:**  
- [https://digidraw-app.vercel.app/](https://mariarosete.vercel.app/assets/pizarra-BrZLf9kx.mp4  )
+🎥 **Demo en vídeo:**  
+ https://mariarosete.vercel.app/assets/pizarra-BrZLf9kx.mp4  
 
 
 📍 *Proyecto ejecutable directamente en el navegador (HTML + JS Vanilla).*  <br>
@@ -490,30 +512,33 @@ DigiDraw es una **pizarra digital** que permite dibujar a mano alzada, cambiar c
 ## 💡 Tecnologías que uso
 
 ### 🧠 Lenguajes
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 
 ---
 
 ### 🚀 Frameworks
 
 #### 🔙 Backend
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 
 #### 🎨 Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
 ![Quasar](https://img.shields.io/badge/Quasar-1976D2?style=for-the-badge&logo=quasar&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+
 
 ---
 ### 🧩 Librerías
