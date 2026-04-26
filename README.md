@@ -474,7 +474,7 @@ DigiDraw es una **pizarra digital** que permite dibujar a mano alzada, cambiar c
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Canvas](https://img.shields.io/badge/Canvas-HTML5-blue?style=for-the-badge)
 
-🔗 https://digidraw-app.vercel.app/<br>
+## 🌐 Aplicación en funcionamiento: https://digidraw-app.vercel.app/<br>
 🎥 Demo en vídeo: https://mariarosete.vercel.app/assets/pizarra-BrZLf9kx.mp4  
 
 📍 *Proyecto ejecutable directamente en el navegador (HTML + JS Vanilla).*  <br>
