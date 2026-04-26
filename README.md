@@ -366,10 +366,12 @@ Permite crear, editar, eliminar y buscar contactos de manera dinámica, además 
 ![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
+🌐 **Aplicación en funcionamiento:**  
+ https://agenda-contactos-smid.onrender.com/ <br>
 
 🎥 **Demo en vídeo:**  
  https://mariarosete.vercel.app/assets/agenda-Bt2Pe7ie.mp4<br><br>
-📍 *Proyecto ejecutable localmente mediante Node.js y npm, con configuración de entorno a través de archivo `.env`.*
+
 
 ---
 <img src="https://github.com/mariarosete/pasteleriaCreativa/blob/main/screenshots/fondo.png?raw=true" alt="Banner Pastelería Creativa (Java Swing)" width="100%" />
