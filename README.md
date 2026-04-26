@@ -309,7 +309,7 @@ Permite subir, descargar y visualizar archivos desde un dispositivo móvil conec
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 
 🎥 **Demo en vídeo:**  
- https://mariarosete.vercel.app/assets/Servidor-I_unzXxa.mp4<br><br>
+ https://mariarosete.vercel.app/Pokedex.mp4<br><br>
 📍 *Proyecto desarrollado de forma integral, incluyendo el frontend Android y el backend en Java para comunicación mediante sockets.*
 
 ---
@@ -464,7 +464,7 @@ El proyecto consiste en un **juego interactivo** donde el usuario debe asociar c
  https://disney-drag-drop.vercel.app/<br>
 
 🎥 **Demo en vídeo:**  
- https://mariarosete.vercel.app/assets/disney-a0aX88cA.mp4<br><br>
+ https://mariarosete.vercel.app/disney.mp4<br><br>
 
 📍 *Proyecto ejecutable directamente en el navegador (HTML + JS Vanilla).*  <br>
 📍 *Ideal para practicar lógica de juego, Drag & Drop y manipulación del DOM sin frameworks.*
@@ -500,7 +500,7 @@ DigiDraw es una **pizarra digital** que permite dibujar a mano alzada, cambiar c
  https://digidraw-app.vercel.app/ <br>
 
 🎥 **Demo en vídeo:**  
- https://mariarosete.vercel.app/assets/pizarra-BrZLf9kx.mp4 <br><br>  
+ https://mariarosete.vercel.app/pizarra.mp4 <br><br>  
 
 
 📍 *Proyecto ejecutable directamente en el navegador (HTML + JS Vanilla).*  <br>
