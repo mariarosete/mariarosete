@@ -276,6 +276,7 @@ Incluye capa frontend para visualización y análisis de datos.
 
 🎥 **Demo en vídeo:**  
  https://mariarosete.vercel.app/agenda.mp4
+ 
 ---
 <br>
 
