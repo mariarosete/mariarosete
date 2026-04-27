@@ -251,8 +251,6 @@ Implementa arquitectura cliente-servidor con cliente Android en Kotlin que consu
 🎥 **Demo en vídeo:**  
 👉 https://mariarosete.vercel.app/agenda.mp4
  
- <br>
-📍 *Proyecto desarrollado de forma integral, incluyendo el frontend Android y el backend en Java para comunicación mediante sockets.*
 ---
 <br>
 <img src="https://github.com/mariarosete/agenda-contactos/blob/main/images/bannerAgenda.png?raw=true" alt="Banner Agenda de Contactos" width="100%" />
