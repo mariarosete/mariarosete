@@ -203,12 +203,11 @@ Implementa autenticación con JWT, control de acceso por roles y persistencia de
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-
- 🌐 **Aplicación en funcionamiento:**  
- https://maria-skilltech.vercel.app/usuarios/html/anonimo/indexAnonimo.html <br>
+🌐 **Aplicación en funcionamiento:**  
+👉 https://maria-skilltech.vercel.app/usuarios/html/anonimo/indexAnonimo.html  
 
 🎥 **Demo en vídeo:**  
- https://mariarosete.vercel.app/assets/skillTech-CbHMBt_u.mp4
+👉 https://mariarosete.vercel.app/assets/skillTech-CbHMBt_u.mp4
 
 ---
 <br>
