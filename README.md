@@ -185,47 +185,13 @@ Ambos proyectos destacan por su diseño funcional, enfoque práctico y orientaci
 ## 🚀 Proyectos destacados
 
 <br>
-<img src="https://github.com/mariarosete/asgardGym/blob/main/bannerAsgard.png?raw=true" alt="Banner Asgard Gym" width="100%" />
-
-### 📱 [Asgard Gym – App móvil para gimnasios](https://github.com/mariarosete/asgardGym)
-
-Aplicación Android desarrollada para facilitar la gestión de actividades en centros deportivos.
-
-🔹 Permite a los usuarios:
-- Consultar una agenda semanal filtrable por tipo, nombre o monitor.
-- Realizar reservas en tiempo real con validación automática.
-- Ver el historial de reservas y estadísticas personales.
-
-🔹 Para el personal del gimnasio:
-- Gestión de usuarios, actividades e historial de cambios.
-
-**🛠️ Tecnologías**  
-
-![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white) ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white) ![Material Design](https://img.shields.io/badge/Material%20Design-757575?style=for-the-badge&logo=material-design&logoColor=white)
-
-
-🎥 **Demo en vídeo:**  
- https://mariarosete.vercel.app/assets/AsgardGym-DimlY--h.mp4 <br><br>
-📍 *Próximas mejoras:* sincronización con API REST y análisis de hábitos saludables
-
----
-
-<br>
 
 <img src="https://github.com/mariarosete/skillTech/blob/main/front/banner.png?raw=true" alt="SkillTech Banner" width="100%"/>
 
 ### 💻 [SkillTech – Plataforma web educativa](https://github.com/mariarosete/skillTech)
 
-Plataforma web para la gestión de cursos y recursos educativos, dirigida a estudiantes y profesionales de informática.
-
-🔹 Para administradores:
-- Crear, editar y eliminar cursos, usuarios y materiales (PDF, enlaces, vídeos).
-- Visualizar y responder solicitudes de soporte de usuarios.
-
-🔹 Para alumnos:
-- Registro con rol asignado (alumno o administrador).
-- Acceso a cursos y materiales.
-- Edición de perfil y envío de tickets de soporte.
+Desarrollo de backend en Spring Boot con base de datos MySQL, creando una API REST para la gestión de usuarios, cursos e inscripciones. <br>
+Implementa autenticación con JWT, control de acceso por roles y persistencia de datos, siguiendo una arquitectura cliente-servidor.
 
 **🛠️ Tecnologías**  
 
@@ -245,20 +211,78 @@ Plataforma web para la gestión de cursos y recursos educativos, dirigida a estu
  https://mariarosete.vercel.app/assets/skillTech-CbHMBt_u.mp4
 
 ---
+<br>
+<img src="https://github.com/mariarosete/asgardGym/blob/main/bannerAsgard.png?raw=true" alt="Banner Asgard Gym" width="100%" />
 
+### 📱 [Asgard Gym – App móvil para gimnasios](https://github.com/mariarosete/asgardGym)
+
+Aplicación móvil Android desarrollada en Kotlin para la gestión de centros deportivos.<br> 
+Implementa sistema de reservas, gestión de usuarios y horarios, persistencia de datos con SQLite y diseño basado en Material Design.
+
+
+**🛠️ Tecnologías**  
+
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white) ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white) ![Material Design](https://img.shields.io/badge/Material%20Design-757575?style=for-the-badge&logo=material-design&logoColor=white)
+
+
+🎥 **Demo en vídeo:**  
+ https://mariarosete.vercel.app/assets/AsgardGym-DimlY--h.mp4 <br><br>
+📍 *Próximas mejoras:* sincronización con API REST y análisis de hábitos saludables
+
+---
+<br>
+<img src="https://github.com/mariarosete/servidorArchivos/blob/main/bannerServidorArchivos.png?raw=true" alt="Banner Servidor Archivos" width="100%" />
+
+### 📁 [Servidor de Archivos – Cliente Android + Servidor TCP](https://github.com/mariarosete/servidorArchivos)
+
+Desarrollo de servidor backend en Java utilizando sockets TCP para la gestión de conexiones concurrentes y transferencia de archivos en red local.<br>
+Implementa arquitectura cliente-servidor con cliente Android en Kotlin que consume el servicio.
+
+**🛠️ Tecnologías**
+
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Material Design](https://img.shields.io/badge/Material%20Design-757575?style=for-the-badge&logo=material-design&logoColor=white)
+![Sockets TCP](https://img.shields.io/badge/Sockets-TCP-blue?style=for-the-badge)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+
+🎥 **Demo en vídeo:**  
+ https://mariarosete.vercel.app/assets/Servidor-I_unzXxa.mp4<br><br>
+📍 *Proyecto desarrollado de forma integral, incluyendo el frontend Android y el backend en Java para comunicación mediante sockets.*
+---
+<br>
+<img src="https://github.com/mariarosete/agenda-contactos/blob/main/images/bannerAgenda.png?raw=true" alt="Banner Agenda de Contactos" width="100%" />
+
+### 📒 [Agenda de Contactos – Node.js + JavaScript + HTML + CSS](https://github.com/mariarosete/agenda-contactos)
+
+Desarrollo de backend en Node.js con base de datos MySQL, creando una API REST para la gestión de contactos con operaciones CRUD, búsqueda avanzada, paginación y sistema de favoritos.<br>
+Incluye capa frontend para visualización y análisis de datos.
+
+**🛠️ Tecnologías**  
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+
+🌐 **Aplicación en funcionamiento:**  
+ https://agenda-contactos-smid.onrender.com/ <br>
+
+🎥 **Demo en vídeo:**  
+ https://mariarosete.vercel.app/agenda.mp4<br><br>
+
+---
 <br>
 
 <img src="https://github.com/mariarosete/pokedex/blob/main/Banner_Pokedex.png?raw=true" alt="Banner Pokedex" width="100%" />
 
 ### 🎮 [Pokedex – Aplicación web Angular](https://github.com/mariarosete/pokedex)
 
-Aplicación desarrollada durante una formación especializada en Angular, enfocada en el consumo de APIs y la gestión de estado con NgRx.
-Los datos se obtienen en tiempo real desde la API pública PokeAPI.
+Aplicación frontend en Angular orientada al consumo de APIs REST, con gestión de estado mediante NgRx y arquitectura reactiva con RxJS.<br>
+Consume datos en tiempo real desde PokeAPI, simulando un flujo completo de integración con backend.
 
-🔹 Funcionalidades:
-- Búsqueda y filtrado de Pokémon por tipo (agua, fuego, planta...).
-- Vista de listado y detalle individual con información enriquecida.
-- Interfaz responsiva con diseño moderno.
 
 **🛠️ Tecnologías**  
 
@@ -278,116 +302,13 @@ Los datos se obtienen en tiempo real desde la API pública PokeAPI.
 📍 *Proyecto realizado como parte de una formación intensiva en Angular*
 
 ---
-
-<img src="https://github.com/mariarosete/servidorArchivos/blob/main/bannerServidorArchivos.png?raw=true" alt="Banner Servidor Archivos" width="100%" />
-
-### 📁 [Servidor de Archivos – Cliente Android + Servidor TCP](https://github.com/mariarosete/servidorArchivos)
-
-Aplicación de gestión de archivos en red local desarrollada con una interfaz Android moderna en **Kotlin** y un servidor TCP en **Java**.  
-Permite subir, descargar y visualizar archivos desde un dispositivo móvil conectado a la misma red.
-
-🔹 **Funciones principales:**
-- Listado dinámico de archivos disponibles en el servidor.
-- Descarga de ficheros seleccionados desde un Spinner.
-- Subida de cualquier tipo de archivo mediante el selector del sistema.
-- Indicador del archivo actualmente seleccionado.
-- Interfaz moderna basada en Material Design con estilos personalizados.
-- Soporte para múltiples tipos de archivo (`.pdf`, `.jpg`, `.png`, `.txt`, `.mp4`, etc.).
-- Botón de reinicio que limpia los campos y restablece el estado inicial.
-
-🔸 **Gestión de errores incluida:**
-- Validaciones para selección de archivo nula.
-- Mensajes claros al usuario con Toast informativos.
-- Control de flujo según respuestas del servidor TCP.
-
-**🛠️ Tecnologías**
-
-![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-![Material Design](https://img.shields.io/badge/Material%20Design-757575?style=for-the-badge&logo=material-design&logoColor=white)
-![Sockets TCP](https://img.shields.io/badge/Sockets-TCP-blue?style=for-the-badge)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-
-🎥 **Demo en vídeo:**  
- https://mariarosete.vercel.app/assets/Servidor-I_unzXxa.mp4<br><br>
-📍 *Proyecto desarrollado de forma integral, incluyendo el frontend Android y el backend en Java para comunicación mediante sockets.*
-
----
-<img src="https://github.com/mariarosete/portafolio/blob/main/banner.png?raw=true" alt="Banner Portafolio" width="100%" />
-
-### 🌐 [Portfolio Personal – React + Vite + TailwindCSS](https://github.com/mariarosete/portafolio)
-
-Portfolio personal desarrollado para centralizar y presentar mis proyectos, experiencia y habilidades como desarrolladora **Full Stack**.  
-Cuenta con un diseño moderno, animaciones fluidas y una interfaz totalmente responsive.  
-
-🔹 **Características principales:**  
-- Presentación completa de mis proyectos destacados, experiencia, formación y certificaciones.  
-- Diseño limpio, minimalista y adaptable a cualquier dispositivo.  
-- Animaciones suaves con **Framer Motion**.  
-- Sección de contacto funcional con validación de formulario.  
-- Enlaces directos a mis redes profesionales.  
-
-**🛠️ Tecnologías**  
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=FFD62E)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Framer Motion](https://img.shields.io/badge/Framer%20Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
-
-
-🌐 **Aplicación en funcionamiento:**  
- https://mariarosete.vercel.app/
-
----
-
-<img src="https://github.com/mariarosete/agenda-contactos/blob/main/images/bannerAgenda.png?raw=true" alt="Banner Agenda de Contactos" width="100%" />
-
-### 📒 [Agenda de Contactos – Node.js + JavaScript + HTML + CSS](https://github.com/mariarosete/agenda-contactos)
-
-Aplicación web desarrollada para la **gestión de contactos personales y profesionales**, con un enfoque en la simplicidad, la interactividad y el diseño propio sin frameworks de frontend.  
-Permite crear, editar, eliminar y buscar contactos de manera dinámica, además de mostrar estadísticas visuales mediante gráficos.
-
-🔹 **Características principales:**  
-- Listado interactivo con ordenación por **nombre, apellidos y ciudad**.  
-- **Búsqueda instantánea** y **filtros rápidos** (todos / favoritos).  
-- **CRUD completo** con modales personalizados (agregar, editar, eliminar).  
-- **Paginación en cliente** y almacenamiento de favoritos.  
-- **Gráficos** dinámicos con **Chart.js**.  
-- Interfaz **accesible y moderna**, creada sin frameworks CSS.  
-- Configuración mediante archivo **`.env`** para conexión a base de datos MySQL.  
-
-**🛠️ Tecnologías**  
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-
-🌐 **Aplicación en funcionamiento:**  
- https://agenda-contactos-smid.onrender.com/ <br>
-
-🎥 **Demo en vídeo:**  
- https://mariarosete.vercel.app/agenda.mp4<br><br>
-
-
----
+<br>
 <img src="https://github.com/mariarosete/pasteleriaCreativa/blob/main/screenshots/fondo.png?raw=true" alt="Banner Pastelería Creativa (Java Swing)" width="100%" />
 
 ### 🍰 [Pastelería Creativa – Aplicación de escritorio en Java Swing](https://github.com/mariarosete/pasteleriaCreativa)
 
 Aplicación de escritorio desarrollada en **Java Swing** para crear y gestionar recetas de repostería desde una interfaz visual e intuitiva.  
 Permite definir postres, añadir ingredientes, guardar y cargar recetas desde archivos de texto, personalizar la interfaz y acceder a una ayuda integrada con **JavaHelp**.
-
-🔹 **Características principales:**  
-- Creación de recetas: **nombre**, **tipo** y **categoría**.  
-- Gestión dinámica de ingredientes con **menú contextual** (clic derecho) y opción de **limpiar todos**.  
-- Guardar/cargar recetas y **generar archivo de texto** con todas las recetas.  
-- Personalización del **color del texto** en paneles de postres e ingredientes.  
-- **JavaHelp** integrado (acceso desde menú, barra de herramientas y tecla **F1**).  
-- Componentes personalizados (botón corazón y paneles con bordes redondeados/sombra).
 
 **🛠️ Tecnologías**  
 
@@ -401,20 +322,13 @@ Permite definir postres, añadir ingredientes, guardar y cargar recetas desde ar
 
 
 ---
+<br>
 <img src="https://github.com/mariarosete/pasteleria/blob/main/screenshots/pasteleria.png?raw=true" alt="Banner Pastelería Creativa (WPF)" width="100%" />
 
 ### 🧁 [Pastelería Creativa – FlowDocument + DataGrid (WPF)](https://github.com/mariarosete/pasteleria)
 
 Proyecto desarrollado en **WPF (C#)** orientado al mundo de la **pastelería creativa**.  
 Incluye un **FlowDocument** interactivo con secciones formateadas e imágenes, y un módulo de **acceso a datos** con **DataGrid** y operaciones **CRUD** conectado a una base de datos **Microsoft Access** (`recetas.accdb`).
-
-🔹 **Características principales:**  
-- FlowDocument con secciones: **Recetas**, **Postres** y **Decoraciones**.  
-- Acciones: **guardar**, **cargar**, **eliminar** e **imprimir** el documento.  
-- Interactividad con **triggers** (hover en botones) y **eventos** (clic en imágenes).  
-- Formato avanzado: columnas, listas, tablas (con combinación de celdas), imágenes flotantes/en línea e hipervínculos.  
-- DataGrid con **CRUD completo** (insertar/modificar/eliminar) y navegación por registros.  
-- Estilos y animaciones WPF aplicados a botones y ventana.
 
 **🛠️ Tecnologías**  
 
@@ -431,6 +345,28 @@ Incluye un **FlowDocument** interactivo con secciones formateadas e imágenes, y
 📍 *Proyecto ejecutable desde Visual Studio. La base de datos se encuentra en `recetas.accdb`.*
 
 ---
+<br>
+<img src="https://github.com/mariarosete/portafolio/blob/main/banner.png?raw=true" alt="Banner Portafolio" width="100%" />
+
+### 🌐 [Portfolio Personal – React + Vite + TailwindCSS](https://github.com/mariarosete/portafolio)
+
+Portfolio personal desarrollado con React y Vite, con diseño responsive, animaciones y estructura modular orientada a la presentación de proyectos y experiencia.
+
+**🛠️ Tecnologías**  
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=FFD62E)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/Framer%20Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
+
+
+🌐 **Aplicación en funcionamiento:**  
+ https://mariarosete.vercel.app/
+
+---
+
+<br>
 <img src="https://github.com/mariarosete/disney-drag-drop/blob/main/screenshots/disney.png?raw=true" alt="Banner Juego Disney Drag & Drop" width="100%" />
 
 ### 🎮 [¿Quién es este personaje de Disney? – Drag & Drop Game (HTML · CSS · JavaScript)](https://github.com/mariarosete/disney-drag-drop)
@@ -439,19 +375,6 @@ Proyecto frontend desarrollado con **HTML, CSS y JavaScript (Vanilla)**, centrad
 
 El proyecto consiste en un **juego interactivo** donde el usuario debe asociar correctamente personajes de Disney con sus nombres, recibiendo **feedback visual inmediato** y pudiendo consultar **información detallada** de cada personaje.
 
-🔹 **Características principales:**  
-- Juego **Drag & Drop** con personajes de Disney.  
-- Selección de **4 personajes aleatorios** en cada partida.  
-- Validación visual:
-  - ✔️ Correcto → se marca en verde y se bloquea.  
-  - ❌ Incorrecto → se marca en rojo de forma temporal.  
-- Verificación automática de victoria y **mensaje final de enhorabuena**.  
-- Botón **Reiniciar** para generar una nueva combinación.  
-- Vista alternativa de **información de personajes**:
-  - Fichas con imagen, nombre y descripción.
-  - Animación tipo **flip** para mostrar información adicional.  
-- Carga dinámica de datos desde archivo **JSON** mediante `fetch`.  
-- Código modular y organizado en funciones reutilizables.
 
 **🛠️ Tecnologías**  
 
@@ -472,6 +395,7 @@ El proyecto consiste en un **juego interactivo** donde el usuario debe asociar c
 📍 *Ideal para practicar lógica de juego, Drag & Drop y manipulación del DOM sin frameworks.*
 
 ---
+<br>
 <img src="https://github.com/mariarosete/digidraw-pizarra/blob/main/screenshots/pizarra.png?raw=true" alt="Banner DigiDraw Pizarra Digital" width="100%" />
 
 ### 🖍️ [DigiDraw – Pizarra Digital con Canvas (HTML · CSS · JavaScript)](https://github.com/mariarosete/digidraw-pizarra)
@@ -479,17 +403,6 @@ El proyecto consiste en un **juego interactivo** donde el usuario debe asociar c
 Proyecto frontend desarrollado con **HTML, CSS y JavaScript (Vanilla)**, centrado en el uso del **Canvas API**, dibujo interactivo, manipulación de imágenes y texto, y una experiencia de usuario visual e intuitiva.
 
 DigiDraw es una **pizarra digital** que permite dibujar a mano alzada, cambiar colores y grosores, borrar contenido, insertar imágenes y añadir texto directamente sobre el lienzo sin necesidad de recargar la página.
-
-🔹 **Características principales:**  
-- Dibujo libre sobre **Canvas** con eventos de ratón.  
-- Selección de **colores** mediante paleta y selector personalizado.  
-- Control de **grosor del trazo** (fino, medio y grueso).  
-- **Goma de borrar** usando `globalCompositeOperation`.  
-- Botón para **borrar todo** el lienzo.  
-- Inserción de **imágenes** desde el equipo mediante `FileReader`.  
-- Inserción de **texto personalizado** directamente en el canvas.  
-- Cursores personalizados para rotulador y goma.  
-- Interfaz visual con fondo temático tipo pizarra y panel lateral de herramientas.
 
 **🛠️ Tecnologías**  
 
@@ -509,7 +422,6 @@ DigiDraw es una **pizarra digital** que permite dibujar a mano alzada, cambiar c
 📍 *Ideal para practicar Canvas, eventos de ratón y manipulación gráfica sin frameworks.*  
 
 ---
-
 
 ## 💡 Tecnologías que uso
 
