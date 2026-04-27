@@ -245,8 +245,13 @@ Implementa arquitectura cliente-servidor con cliente Android en Kotlin que consu
 ![Sockets TCP](https://img.shields.io/badge/Sockets-TCP-blue?style=for-the-badge)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 
+🌐 **Aplicación en funcionamiento:**  
+👉 https://agenda-contactos-smid.onrender.com/
+
 🎥 **Demo en vídeo:**  
- https://mariarosete.vercel.app/assets/Servidor-I_unzXxa.mp4<br><br>
+👉 https://mariarosete.vercel.app/agenda.mp4
+ 
+ <br>
 📍 *Proyecto desarrollado de forma integral, incluyendo el frontend Android y el backend en Java para comunicación mediante sockets.*
 ---
 <br>
