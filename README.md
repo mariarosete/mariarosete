@@ -271,8 +271,7 @@ Incluye capa frontend para visualización y análisis de datos.
  https://agenda-contactos-smid.onrender.com/ <br>
 
 🎥 **Demo en vídeo:**  
- https://mariarosete.vercel.app/agenda.mp4<br><br>
-
+ https://mariarosete.vercel.app/agenda.mp4
 ---
 <br>
 
