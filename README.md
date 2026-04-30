@@ -38,7 +38,7 @@
 - [📜 Certificados](#-certificados)
 - [💼 Experiencia profesional reciente](#-experiencia-profesional-reciente)
 - [🎓 Proyectos académicos](#-proyectos-académicos)
-- [🚀 Proyectos destacados](#-proyectos-destacados)
+- [🎓 Proyectos destacados](#-proyectos-destacados)
 - [💡 Tecnologías que uso](#-tecnologías-que-uso)
 - [📩 Contacto](#-contacto)
 - [📊 Estadísticas de GitHub](#-estadísticas-de-github)
@@ -165,7 +165,7 @@ Estas experiencias me han permitido aplicar buenas prácticas de desarrollo, tra
 
 ## 🎓 Proyectos académicos
 
-- 🚀 He desarrollado plataformas completas con **Java + Spring Boot** y apps móviles con **Kotlin**, implementando:
+- He desarrollado plataformas completas con **Java + Spring Boot** y apps móviles con **Kotlin**, implementando:
   
   - Autenticación y gestión de usuarios.
   - Paneles de administración.
@@ -182,7 +182,7 @@ Ambos proyectos destacan por su diseño funcional, enfoque práctico y orientaci
 
 ---
 
-## 🚀 Proyectos destacados
+## 🎓 Proyectos destacados
 
 <br>
 
@@ -425,7 +425,7 @@ DigiDraw es una **pizarra digital** que permite dibujar a mano alzada, cambiar c
 
 ## 💡 Tecnologías que uso
 
-### 🧠 Lenguajes
+### Lenguajes
 
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -437,9 +437,9 @@ DigiDraw es una **pizarra digital** que permite dibujar a mano alzada, cambiar c
 
 ---
 
-### 🚀 Frameworks
+###  Frameworks
 
-#### 🔙 Backend
+#### Backend
 
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
@@ -447,7 +447,7 @@ DigiDraw es una **pizarra digital** que permite dibujar a mano alzada, cambiar c
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 
-#### 🎨 Frontend
+#### Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
 ![Quasar](https://img.shields.io/badge/Quasar-1976D2?style=for-the-badge&logo=quasar&logoColor=white)
@@ -455,7 +455,7 @@ DigiDraw es una **pizarra digital** que permite dibujar a mano alzada, cambiar c
 
 
 ---
-### 🧩 Librerías
+### Librerías
 ![Axios](https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white)
 ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
@@ -467,7 +467,7 @@ DigiDraw es una **pizarra digital** que permite dibujar a mano alzada, cambiar c
 
 ---
 
-### 🗄️ Bases de datos
+### Bases de datos
 
 #### SQL
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
@@ -484,27 +484,27 @@ DigiDraw es una **pizarra digital** que permite dibujar a mano alzada, cambiar c
 
 ### 🛠️ Herramientas
 
-**🔧 IDEs**
+** IDEs**
 ![VSCode](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
 ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
 ![NetBeans](https://img.shields.io/badge/NetBeans-1B6AC6?style=for-the-badge&logo=apachenetbeanside&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
 
-**🔁 Control de versiones y CI/CD**
+** Control de versiones y CI/CD**
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white)
 ![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
 
-**📦 APIs, Testing y Contenedores**
+** APIs, Testing y Contenedores**
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
 ![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=java&logoColor=white)
 ![MSTest](https://img.shields.io/badge/MSTest-512BD4?style=for-the-badge&logo=.net&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-**⚡ Frontend tools**
+** Frontend tools**
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![ESLint](https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white)
 ![Prettier](https://img.shields.io/badge/Prettier-F7B93E?style=for-the-badge&logo=prettier&logoColor=black)
@@ -540,7 +540,7 @@ DigiDraw es una **pizarra digital** que permite dibujar a mano alzada, cambiar c
   <img src="https://komarev.com/ghpvc/?username=mariarosete&label=Visitas%20al%20perfil&color=0e75b6&style=flat" alt="Contador de visitas" />
 </p>
 
-### 🧾 Resumen del perfil
+### Resumen del perfil
 
 <p align="center">
   <a href="https://github.com/mariarosete">
@@ -550,7 +550,7 @@ DigiDraw es una **pizarra digital** que permite dibujar a mano alzada, cambiar c
 
 ---
 
-### 📈 Gráfico de actividad
+### Gráfico de actividad
 
 <p align="center">
   <a href="https://github.com/mariarosete">
