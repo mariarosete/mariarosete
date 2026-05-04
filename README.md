@@ -207,7 +207,7 @@ Implementa autenticación con JWT, control de acceso por roles y persistencia de
 👉 https://maria-skilltech.vercel.app/usuarios/html/anonimo/indexAnonimo.html  
 
 🎥 **Demo en vídeo:**  
-👉 https://mariarosete.vercel.app/assets/skillTech-CbHMBt_u.mp4
+👉 https://mariarosete.vercel.app/skillTech.mp4
 
 ---
 <br>
